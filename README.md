@@ -34,7 +34,8 @@ cd isaacgym/python
 pip install -e .
 ```
 
-###  3. Dataset
+## 📂 Dataset
+
 We present a comprehensive library of twistable objects comprising over 300 instances across 10 distinct categories.
 
 Categories: Bottle, Nut, Rotation Switch, Shampoo, Liquor, Bulb, Cosmetic, Valve, Screwdriver, etc.
@@ -48,13 +49,17 @@ mkdir assets
 # Unzip your downloaded data here
 ```
 
-###  3. Train and evaluate the policy
+## 🏃 Usage
+
+###  Train
 
 To train the policy using the default configuration:
 ```bash
 python train.py task=DexAnyTwist headless=True
 ```
 
+###  Evaluate
+and evaluate the policy
 To evaluate the trained policy:
 ```bash
 python train.py task=DexAnyTwist checkpoint=runs/DexAnyTwist/nn/DexAnyTwist.pth test=True
