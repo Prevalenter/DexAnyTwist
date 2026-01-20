@@ -24,3 +24,43 @@ This project is built on **Isaac Gym** and **PyTorch**.
 conda create -n dexanytwist python=3.8
 conda activate dexanytwist
 pip install torch torchvision torchaudio --extra-index-url [https://download.pytorch.org/whl/cu113](https://download.pytorch.org/whl/cu113)
+```
+
+### 2. Install Isaac Gym
+Download the Isaac Gym Preview 4 from the [NVIDIA website](https://developer.nvidia.com/isaac-gym) and install it:
+
+```bash
+cd isaacgym/python
+pip install -e .
+```
+
+###  3. Dataset
+We present a comprehensive library of twistable objects comprising over 300 instances across 10 distinct categories.
+
+Categories: Bottle, Nut, Rotation Switch, Shampoo, Liquor, Bulb, Cosmetic, Valve, Screwdriver, etc.
+
+Download: Please visit our [Project Page](https://prevalenter.github.io/dexanytwist.github.io/) to download the processed object assets.
+
+Extract the dataset to the assets/ directory:
+
+```bash
+mkdir assets
+# Unzip your downloaded data here
+```
+
+###  3. Train and evaluate the policy
+
+To train the policy using the default configuration:
+```bash
+python train.py task=DexAnyTwist headless=True
+```
+
+To evaluate the trained policy:
+```bash
+python train.py task=DexAnyTwist checkpoint=runs/DexAnyTwist/nn/DexAnyTwist.pth test=True
+```
+
+
+## 🙏 Acknowledgments
+
+* We would like to thank the authors of [IsaacGymEnvs](https://github.com/NVIDIA-Omniverse/IsaacGymEnvs) as our codebase is built upon their excellent work.
