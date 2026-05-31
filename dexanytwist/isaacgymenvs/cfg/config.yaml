@@ -59,8 +59,8 @@ headless: False
 
 # set default task and default training config based on task
 defaults:
-  - task: Ant
-  - train: ${task}PPO
+  - task: dexanytwist/DexAnyTwist
+  - train: dexanytwist/DexAnyTwistPPO
   - pbt: no_pbt
   - override hydra/job_logging: disabled
   - _self_
@@ -70,4 +70,3 @@ hydra:
   output_subdir: null
   run:
     dir: .
-

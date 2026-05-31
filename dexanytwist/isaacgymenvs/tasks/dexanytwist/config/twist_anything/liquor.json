@@ -1,0 +1,684 @@
+{
+    "liquor_0008": {
+        "urdf_path": "twist_dataset/twist_dataset_urdf/liquor/liquor_0008/urdf/liquor_0008_modified.urdf",
+        "dx": 0.03,
+        "dy": -0.08,
+        "dz": -0.11,
+        "kp_bais": [
+            [
+                0,
+                0.03,
+                0.0
+            ],
+            [
+                0,
+                -0.03,
+                0.0
+            ],
+            [
+                -0.03,
+                0,
+                0.0
+            ]
+        ],
+        "kp_center": [
+            [
+                0,
+                0,
+                0.0
+            ]
+        ],
+        "points_feature": "twist_dataset/twist_dataset_urdf/liquor/liquor_0008/meshes/link1_poisson_1024_feature.npy"
+    },
+    "liquor_0009": {
+        "urdf_path": "twist_dataset/twist_dataset_urdf/liquor/liquor_0009/urdf/liquor_0009_modified.urdf",
+        "dx": 0.03,
+        "dy": -0.08,
+        "dz": -0.1,
+        "kp_bais": [
+            [
+                0,
+                0.03,
+                0.0
+            ],
+            [
+                0,
+                -0.03,
+                0.0
+            ],
+            [
+                -0.03,
+                0,
+                0.0
+            ]
+        ],
+        "kp_center": [
+            [
+                0,
+                0,
+                -0.01
+            ]
+        ],
+        "points_feature": "twist_dataset/twist_dataset_urdf/liquor/liquor_0009/meshes/link1_poisson_1024_feature.npy"
+    },
+    "liquor_0005": {
+        "urdf_path": "twist_dataset/twist_dataset_urdf/liquor/liquor_0005/urdf/liquor_0005_modified.urdf",
+        "dx": 0.03,
+        "dy": -0.07,
+        "dz": -0.1,
+        "kp_bais": [
+            [
+                0,
+                0.03,
+                0.0
+            ],
+            [
+                0,
+                -0.03,
+                0.0
+            ],
+            [
+                -0.03,
+                0,
+                0.0
+            ]
+        ],
+        "kp_center": [
+            [
+                0,
+                0,
+                -0.03
+            ]
+        ],
+        "points_feature": "twist_dataset/twist_dataset_urdf/liquor/liquor_0005/meshes/link1_poisson_1024_feature.npy"
+    },
+    "liquor_0002": {
+        "urdf_path": "twist_dataset/twist_dataset_urdf/liquor/liquor_0002/urdf/liquor_0002_modified.urdf",
+        "dx": 0.03,
+        "dy": -0.07,
+        "dz": -0.1,
+        "kp_bais": [
+            [
+                0,
+                0.03,
+                0.0
+            ],
+            [
+                0,
+                -0.03,
+                0.0
+            ],
+            [
+                -0.03,
+                0,
+                0.0
+            ]
+        ],
+        "kp_center": [
+            [
+                0,
+                0,
+                -0.02
+            ]
+        ],
+        "points_feature": "twist_dataset/twist_dataset_urdf/liquor/liquor_0002/meshes/link1_poisson_1024_feature.npy"
+    },
+    "liquor_0014": {
+        "urdf_path": "twist_dataset/twist_dataset_urdf/liquor/liquor_0014/urdf/liquor_0014_modified.urdf",
+        "dx": 0.03,
+        "dy": -0.07,
+        "dz": -0.1,
+        "kp_bais": [
+            [
+                0,
+                0.02,
+                0.0
+            ],
+            [
+                0,
+                -0.02,
+                0.0
+            ],
+            [
+                -0.02,
+                0,
+                0.0
+            ]
+        ],
+        "kp_center": [
+            [
+                0,
+                0,
+                -0.02
+            ]
+        ],
+        "points_feature": "twist_dataset/twist_dataset_urdf/liquor/liquor_0014/meshes/link1_poisson_1024_feature.npy"
+    },
+    "liquor_0010": {
+        "urdf_path": "twist_dataset/twist_dataset_urdf/liquor/liquor_0010/urdf/liquor_0010_modified.urdf",
+        "dx": 0.03,
+        "dy": -0.07,
+        "dz": -0.11,
+        "kp_bais": [
+            [
+                0,
+                0.03,
+                0.0
+            ],
+            [
+                0,
+                -0.03,
+                0.0
+            ],
+            [
+                -0.03,
+                0,
+                0.0
+            ]
+        ],
+        "kp_center": [
+            [
+                0,
+                0,
+                0.0
+            ]
+        ],
+        "points_feature": "twist_dataset/twist_dataset_urdf/liquor/liquor_0010/meshes/link1_poisson_1024_feature.npy"
+    },
+    "liquor_0022": {
+        "urdf_path": "twist_dataset/twist_dataset_urdf/liquor/liquor_0022/urdf/liquor_0022_modified.urdf",
+        "dx": 0.03,
+        "dy": -0.07,
+        "dz": -0.1,
+        "kp_bais": [
+            [
+                0,
+                0.03,
+                0.0
+            ],
+            [
+                0,
+                -0.03,
+                0.0
+            ],
+            [
+                -0.03,
+                0,
+                0.0
+            ]
+        ],
+        "kp_center": [
+            [
+                0,
+                0,
+                -0.03
+            ]
+        ],
+        "points_feature": "twist_dataset/twist_dataset_urdf/liquor/liquor_0022/meshes/link1_poisson_1024_feature.npy"
+    },
+    "liquor_0018": {
+        "urdf_path": "twist_dataset/twist_dataset_urdf/liquor/liquor_0018/urdf/liquor_0018_modified.urdf",
+        "dx": 0.03,
+        "dy": -0.07,
+        "dz": -0.1,
+        "kp_bais": [
+            [
+                0,
+                0.03,
+                0.0
+            ],
+            [
+                0,
+                -0.03,
+                0.0
+            ],
+            [
+                -0.03,
+                0,
+                0.0
+            ]
+        ],
+        "kp_center": [
+            [
+                0,
+                0,
+                -0.03
+            ]
+        ],
+        "points_feature": "twist_dataset/twist_dataset_urdf/liquor/liquor_0018/meshes/link1_poisson_1024_feature.npy"
+    },
+    "liquor_0016": {
+        "urdf_path": "twist_dataset/twist_dataset_urdf/liquor/liquor_0016/urdf/liquor_0016_modified.urdf",
+        "dx": 0.03,
+        "dy": -0.07,
+        "dz": -0.11,
+        "kp_bais": [
+            [
+                0,
+                0.03,
+                0.0
+            ],
+            [
+                0,
+                -0.03,
+                0.0
+            ],
+            [
+                -0.03,
+                0,
+                0.0
+            ]
+        ],
+        "kp_center": [
+            [
+                0,
+                0,
+                -0.03
+            ]
+        ],
+        "points_feature": "twist_dataset/twist_dataset_urdf/liquor/liquor_0016/meshes/link1_poisson_1024_feature.npy"
+    },
+    "liquor_0017": {
+        "urdf_path": "twist_dataset/twist_dataset_urdf/liquor/liquor_0017/urdf/liquor_0017_modified.urdf",
+        "dx": 0.03,
+        "dy": -0.07,
+        "dz": -0.105,
+        "kp_bais": [
+            [
+                0,
+                0.03,
+                0.0
+            ],
+            [
+                0,
+                -0.03,
+                0.0
+            ],
+            [
+                -0.03,
+                0,
+                0.0
+            ]
+        ],
+        "kp_center": [
+            [
+                0,
+                0,
+                -0.02
+            ]
+        ],
+        "points_feature": "twist_dataset/twist_dataset_urdf/liquor/liquor_0017/meshes/link1_poisson_1024_feature.npy"
+    },
+    "liquor_0007": {
+        "urdf_path": "twist_dataset/twist_dataset_urdf/liquor/liquor_0007/urdf/liquor_0007_modified.urdf",
+        "dx": 0.03,
+        "dy": -0.07,
+        "dz": -0.1,
+        "kp_bais": [
+            [
+                0,
+                0.03,
+                0.0
+            ],
+            [
+                0,
+                -0.03,
+                0.0
+            ],
+            [
+                -0.03,
+                0,
+                0.0
+            ]
+        ],
+        "kp_center": [
+            [
+                0,
+                0,
+                -0.01
+            ]
+        ],
+        "points_feature": "twist_dataset/twist_dataset_urdf/liquor/liquor_0007/meshes/link1_poisson_1024_feature.npy"
+    },
+    "liquor_0001": {
+        "urdf_path": "twist_dataset/twist_dataset_urdf/liquor/liquor_0001/urdf/liquor_0001_modified.urdf",
+        "dx": 0.03,
+        "dy": -0.07,
+        "dz": -0.11,
+        "kp_bais": [
+            [
+                0,
+                0.03,
+                0.0
+            ],
+            [
+                0,
+                -0.03,
+                0.0
+            ],
+            [
+                -0.03,
+                0,
+                0.0
+            ]
+        ],
+        "kp_center": [
+            [
+                0,
+                0,
+                -0.01
+            ]
+        ],
+        "points_feature": "twist_dataset/twist_dataset_urdf/liquor/liquor_0001/meshes/link1_poisson_1024_feature.npy"
+    },
+    "liquor_0023": {
+        "urdf_path": "twist_dataset/twist_dataset_urdf/liquor/liquor_0023/urdf/liquor_0023_modified.urdf",
+        "dx": 0.03,
+        "dy": -0.07,
+        "dz": -0.11,
+        "kp_bais": [
+            [
+                0,
+                0.02,
+                0.0
+            ],
+            [
+                0,
+                -0.02,
+                0.0
+            ],
+            [
+                -0.02,
+                0,
+                0.0
+            ]
+        ],
+        "kp_center": [
+            [
+                0,
+                0,
+                -0.01
+            ]
+        ],
+        "points_feature": "twist_dataset/twist_dataset_urdf/liquor/liquor_0023/meshes/link1_poisson_1024_feature.npy"
+    },
+    "liquor_0024": {
+        "urdf_path": "twist_dataset/twist_dataset_urdf/liquor/liquor_0024/urdf/liquor_0024_modified.urdf",
+        "dx": 0.03,
+        "dy": -0.07,
+        "dz": -0.11,
+        "kp_bais": [
+            [
+                0,
+                0.03,
+                0.0
+            ],
+            [
+                0,
+                -0.03,
+                0.0
+            ],
+            [
+                -0.03,
+                0,
+                0.0
+            ]
+        ],
+        "kp_center": [
+            [
+                0,
+                0,
+                -0.01
+            ]
+        ],
+        "points_feature": "twist_dataset/twist_dataset_urdf/liquor/liquor_0024/meshes/link1_poisson_1024_feature.npy"
+    },
+    "liquor_0025": {
+        "urdf_path": "twist_dataset/twist_dataset_urdf/liquor/liquor_0025/urdf/liquor_0025_modified.urdf",
+        "dx": 0.03,
+        "dy": -0.07,
+        "dz": -0.1,
+        "kp_bais": [
+            [
+                0,
+                0.03,
+                0.0
+            ],
+            [
+                0,
+                -0.03,
+                0.0
+            ],
+            [
+                -0.03,
+                0,
+                0.0
+            ]
+        ],
+        "kp_center": [
+            [
+                0,
+                0,
+                -0.03
+            ]
+        ],
+        "points_feature": "twist_dataset/twist_dataset_urdf/liquor/liquor_0025/meshes/link1_poisson_1024_feature.npy"
+    },
+    "liquor_0020": {
+        "urdf_path": "twist_dataset/twist_dataset_urdf/liquor/liquor_0020/urdf/liquor_0020_modified.urdf",
+        "dx": 0.03,
+        "dy": -0.07,
+        "dz": -0.11,
+        "kp_bais": [
+            [
+                0,
+                0.03,
+                0.0
+            ],
+            [
+                0,
+                -0.03,
+                0.0
+            ],
+            [
+                -0.03,
+                0,
+                0.0
+            ]
+        ],
+        "kp_center": [
+            [
+                0,
+                0,
+                -0.03
+            ]
+        ],
+        "points_feature": "twist_dataset/twist_dataset_urdf/liquor/liquor_0020/meshes/link1_poisson_1024_feature.npy"
+    },
+    "liquor_0011": {
+        "urdf_path": "twist_dataset/twist_dataset_urdf/liquor/liquor_0011/urdf/liquor_0011_modified.urdf",
+        "dx": 0.03,
+        "dy": -0.07,
+        "dz": -0.11,
+        "kp_bais": [
+            [
+                0,
+                0.03,
+                0.0
+            ],
+            [
+                0,
+                -0.03,
+                0.0
+            ],
+            [
+                -0.03,
+                0,
+                0.0
+            ]
+        ],
+        "kp_center": [
+            [
+                0,
+                0,
+                -0.01
+            ]
+        ],
+        "points_feature": "twist_dataset/twist_dataset_urdf/liquor/liquor_0011/meshes/link1_poisson_1024_feature.npy"
+    },
+    "liquor_0015": {
+        "urdf_path": "twist_dataset/twist_dataset_urdf/liquor/liquor_0015/urdf/liquor_0015_modified.urdf",
+        "dx": 0.03,
+        "dy": -0.07,
+        "dz": -0.08,
+        "kp_bais": [
+            [
+                0,
+                0.02,
+                0.0
+            ],
+            [
+                0,
+                -0.02,
+                0.0
+            ],
+            [
+                -0.02,
+                0,
+                0.0
+            ]
+        ],
+        "kp_center": [
+            [
+                0,
+                0,
+                0.0
+            ]
+        ],
+        "points_feature": "twist_dataset/twist_dataset_urdf/liquor/liquor_0015/meshes/link1_poisson_1024_feature.npy"
+    },
+    "liquor_0004": {
+        "urdf_path": "twist_dataset/twist_dataset_urdf/liquor/liquor_0004/urdf/liquor_0004_modified.urdf",
+        "dx": 0.03,
+        "dy": -0.08,
+        "dz": -0.1,
+        "kp_bais": [
+            [
+                0,
+                0.02,
+                0.0
+            ],
+            [
+                0,
+                -0.02,
+                0.0
+            ],
+            [
+                -0.02,
+                0,
+                0.0
+            ]
+        ],
+        "kp_center": [
+            [
+                0,
+                0,
+                -0.02
+            ]
+        ],
+        "points_feature": "twist_dataset/twist_dataset_urdf/liquor/liquor_0004/meshes/link1_poisson_1024_feature.npy"
+    },
+    "liquor_0003": {
+        "urdf_path": "twist_dataset/twist_dataset_urdf/liquor/liquor_0003/urdf/liquor_0003_modified.urdf",
+        "dx": 0.03,
+        "dy": -0.07,
+        "dz": -0.11,
+        "kp_bais": [
+            [
+                0,
+                0.02,
+                0.0
+            ],
+            [
+                0,
+                -0.02,
+                0.0
+            ],
+            [
+                -0.02,
+                0,
+                0.0
+            ]
+        ],
+        "kp_center": [
+            [
+                0,
+                0,
+                -0.01
+            ]
+        ],
+        "points_feature": "twist_dataset/twist_dataset_urdf/liquor/liquor_0003/meshes/link1_poisson_1024_feature.npy"
+    },
+    "liquor_0019": {
+        "urdf_path": "twist_dataset/twist_dataset_urdf/liquor/liquor_0019/urdf/liquor_0019_modified.urdf",
+        "dx": 0.03,
+        "dy": -0.07,
+        "dz": -0.11,
+        "kp_bais": [
+            [
+                0,
+                0.03,
+                0.0
+            ],
+            [
+                0,
+                -0.03,
+                0.0
+            ],
+            [
+                -0.03,
+                0,
+                0.0
+            ]
+        ],
+        "kp_center": [
+            [
+                0,
+                0,
+                -0.03
+            ]
+        ],
+        "points_feature": "twist_dataset/twist_dataset_urdf/liquor/liquor_0019/meshes/link1_poisson_1024_feature.npy"
+    },
+    "liquor_0021": {
+        "urdf_path": "twist_dataset/twist_dataset_urdf/liquor/liquor_0021/urdf/liquor_0021_modified.urdf",
+        "dx": 0.03,
+        "dy": -0.08,
+        "dz": -0.11,
+        "kp_bais": [
+            [
+                0,
+                0.03,
+                0.0
+            ],
+            [
+                0,
+                -0.03,
+                0.0
+            ],
+            [
+                -0.03,
+                0,
+                0.0
+            ]
+        ],
+        "kp_center": [
+            [
+                0,
+                0,
+                -0.02
+            ]
+        ],
+        "points_feature": "twist_dataset/twist_dataset_urdf/liquor/liquor_0021/meshes/link1_poisson_1024_feature.npy"
+    }
+}

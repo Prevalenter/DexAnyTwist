@@ -634,6 +634,8 @@ class VecTask(Env):
             env_ids = torch.nonzero(rand_envs, as_tuple=False).squeeze(-1).tolist()
             self.randomize_buf[rand_envs] = 0
 
+        self.dr_env_ids = env_ids
+
         if do_nonenv_randomize:
             self.last_rand_step = self.last_step
 

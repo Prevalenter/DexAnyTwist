@@ -1,0 +1,1304 @@
+{
+    "valve_0009": {
+        "urdf_path": "twist_dataset/twist_dataset_urdf/valve/valve_0009/urdf/valve_0009_modified.urdf",
+        "dx": 0.03,
+        "dy": -0.08,
+        "dz": -0.11,
+        "kp_bais": [
+            [
+                0,
+                0.03,
+                0.0
+            ],
+            [
+                0,
+                -0.03,
+                0.0
+            ],
+            [
+                -0.03,
+                0,
+                0.0
+            ]
+        ],
+        "kp_center": [
+            [
+                0,
+                0,
+                -0.02
+            ]
+        ],
+        "points_feature": "twist_dataset/twist_dataset_urdf/valve/valve_0009/meshes/link1_poisson_1024_feature.npy"
+    },
+    "valve_0001": {
+        "urdf_path": "twist_dataset/twist_dataset_urdf/valve/valve_0001/urdf/valve_0001_modified.urdf",
+        "dx": 0.03,
+        "dy": -0.08,
+        "dz": -0.125,
+        "kp_bais": [
+            [
+                0,
+                0.03,
+                0.0
+            ],
+            [
+                0,
+                -0.03,
+                0.0
+            ],
+            [
+                -0.03,
+                0,
+                0.0
+            ]
+        ],
+        "kp_center": [
+            [
+                0,
+                0,
+                0.0
+            ]
+        ],
+        "points_feature": "twist_dataset/twist_dataset_urdf/valve/valve_0001/meshes/link1_poisson_1024_feature.npy"
+    },
+    "valve_0002": {
+        "urdf_path": "twist_dataset/twist_dataset_urdf/valve/valve_0002/urdf/valve_0002_modified.urdf",
+        "dx": 0.03,
+        "dy": -0.08,
+        "dz": -0.14,
+        "kp_bais": [
+            [
+                0,
+                0.03,
+                0.0
+            ],
+            [
+                0,
+                -0.03,
+                0.0
+            ],
+            [
+                -0.03,
+                0,
+                0.0
+            ]
+        ],
+        "kp_center": [
+            [
+                0,
+                0,
+                0.03
+            ]
+        ],
+        "points_feature": "twist_dataset/twist_dataset_urdf/valve/valve_0002/meshes/link1_poisson_1024_feature.npy"
+    },
+    "valve_0003": {
+        "urdf_path": "twist_dataset/twist_dataset_urdf/valve/valve_0003/urdf/valve_0003_modified.urdf",
+        "dx": 0.03,
+        "dy": -0.08,
+        "dz": -0.12,
+        "kp_bais": [
+            [
+                0,
+                0.03,
+                0.0
+            ],
+            [
+                0,
+                -0.03,
+                0.0
+            ],
+            [
+                -0.03,
+                0,
+                0.0
+            ]
+        ],
+        "kp_center": [
+            [
+                0,
+                0,
+                0.0
+            ]
+        ],
+        "points_feature": "twist_dataset/twist_dataset_urdf/valve/valve_0003/meshes/link1_poisson_1024_feature.npy"
+    },
+    "valve_0004": {
+        "urdf_path": "twist_dataset/twist_dataset_urdf/valve/valve_0004/urdf/valve_0004_modified.urdf",
+        "dx": 0.06,
+        "dy": -0.08,
+        "dz": -0.17,
+        "kp_bais": [
+            [
+                0,
+                0.03,
+                0.0
+            ],
+            [
+                0,
+                -0.03,
+                0.0
+            ],
+            [
+                -0.03,
+                0,
+                0.0
+            ]
+        ],
+        "kp_center": [
+            [
+                0,
+                0,
+                0.01
+            ]
+        ],
+        "points_feature": "twist_dataset/twist_dataset_urdf/valve/valve_0004/meshes/link1_poisson_1024_feature.npy"
+    },
+    "valve_0010": {
+        "urdf_path": "twist_dataset/twist_dataset_urdf/valve/valve_0010/urdf/valve_0010_modified.urdf",
+        "dx": 0.03,
+        "dy": -0.08,
+        "dz": -0.11,
+        "kp_bais": [
+            [
+                0,
+                0.03,
+                0.0
+            ],
+            [
+                0,
+                -0.03,
+                0.0
+            ],
+            [
+                -0.03,
+                0,
+                0.0
+            ]
+        ],
+        "kp_center": [
+            [
+                0,
+                0,
+                -0.01
+            ]
+        ],
+        "points_feature": "twist_dataset/twist_dataset_urdf/valve/valve_0010/meshes/link1_poisson_1024_feature.npy"
+    },
+    "valve_0005": {
+        "urdf_path": "twist_dataset/twist_dataset_urdf/valve/valve_0005/urdf/valve_0005_modified.urdf",
+        "dx": 0.03,
+        "dy": -0.08,
+        "dz": -0.12,
+        "kp_bais": [
+            [
+                0,
+                0.04,
+                0.0
+            ],
+            [
+                0,
+                -0.04,
+                0.0
+            ],
+            [
+                -0.04,
+                0,
+                0.0
+            ]
+        ],
+        "kp_center": [
+            [
+                0,
+                0,
+                0.0
+            ]
+        ],
+        "points_feature": "twist_dataset/twist_dataset_urdf/valve/valve_0005/meshes/link1_poisson_1024_feature.npy"
+    },
+    "valve_0006": {
+        "urdf_path": "twist_dataset/twist_dataset_urdf/valve/valve_0006/urdf/valve_0006_modified.urdf",
+        "dx": 0.03,
+        "dy": -0.08,
+        "dz": -0.12,
+        "kp_bais": [
+            [
+                0,
+                0.03,
+                0.0
+            ],
+            [
+                0,
+                -0.03,
+                0.0
+            ],
+            [
+                -0.03,
+                0,
+                0.0
+            ]
+        ],
+        "kp_center": [
+            [
+                0,
+                0,
+                0.0
+            ]
+        ],
+        "points_feature": "twist_dataset/twist_dataset_urdf/valve/valve_0006/meshes/link1_poisson_1024_feature.npy"
+    },
+    "valve_0011": {
+        "urdf_path": "twist_dataset/twist_dataset_urdf/valve/valve_0011/urdf/valve_0011_modified.urdf",
+        "dx": 0.03,
+        "dy": -0.08,
+        "dz": -0.14,
+        "kp_bais": [
+            [
+                0,
+                0.03,
+                0.0
+            ],
+            [
+                0,
+                -0.03,
+                0.0
+            ],
+            [
+                -0.03,
+                0,
+                0.0
+            ]
+        ],
+        "kp_center": [
+            [
+                0,
+                0,
+                0.02
+            ]
+        ],
+        "points_feature": "twist_dataset/twist_dataset_urdf/valve/valve_0011/meshes/link1_poisson_1024_feature.npy"
+    },
+    "valve_0013": {
+        "urdf_path": "twist_dataset/twist_dataset_urdf/valve/valve_0013/urdf/valve_0013_modified.urdf",
+        "dx": 0.03,
+        "dy": -0.08,
+        "dz": -0.13,
+        "kp_bais": [
+            [
+                0,
+                0.03,
+                0.0
+            ],
+            [
+                0,
+                -0.03,
+                0.0
+            ],
+            [
+                -0.03,
+                0,
+                0.0
+            ]
+        ],
+        "kp_center": [
+            [
+                0,
+                0,
+                -0.01
+            ]
+        ],
+        "points_feature": "twist_dataset/twist_dataset_urdf/valve/valve_0013/meshes/link1_poisson_1024_feature.npy"
+    },
+    "valve_0014": {
+        "urdf_path": "twist_dataset/twist_dataset_urdf/valve/valve_0014/urdf/valve_0014_modified.urdf",
+        "dx": 0.03,
+        "dy": -0.08,
+        "dz": -0.12,
+        "kp_bais": [
+            [
+                0,
+                0.04,
+                0.0
+            ],
+            [
+                0,
+                -0.04,
+                0.0
+            ],
+            [
+                -0.04,
+                0,
+                0.0
+            ]
+        ],
+        "kp_center": [
+            [
+                0,
+                0,
+                -0.02
+            ]
+        ],
+        "points_feature": "twist_dataset/twist_dataset_urdf/valve/valve_0014/meshes/link1_poisson_1024_feature.npy"
+    },
+    "valve_0015": {
+        "urdf_path": "twist_dataset/twist_dataset_urdf/valve/valve_0015/urdf/valve_0015_modified.urdf",
+        "dx": 0.03,
+        "dy": -0.08,
+        "dz": -0.135,
+        "kp_bais": [
+            [
+                0,
+                0.03,
+                0.0
+            ],
+            [
+                0,
+                -0.03,
+                0.0
+            ],
+            [
+                -0.03,
+                0,
+                0.0
+            ]
+        ],
+        "kp_center": [
+            [
+                0,
+                0,
+                0.02
+            ]
+        ],
+        "points_feature": "twist_dataset/twist_dataset_urdf/valve/valve_0015/meshes/link1_poisson_1024_feature.npy"
+    },
+    "valve_0012": {
+        "urdf_path": "twist_dataset/twist_dataset_urdf/valve/valve_0012/urdf/valve_0012_modified.urdf",
+        "dx": 0.03,
+        "dy": -0.08,
+        "dz": -0.12,
+        "kp_bais": [
+            [
+                0,
+                0.03,
+                0.0
+            ],
+            [
+                0,
+                -0.03,
+                0.0
+            ],
+            [
+                -0.03,
+                0,
+                0.0
+            ]
+        ],
+        "kp_center": [
+            [
+                0,
+                0,
+                -0.01
+            ]
+        ],
+        "points_feature": "twist_dataset/twist_dataset_urdf/valve/valve_0012/meshes/link1_poisson_1024_feature.npy"
+    },
+    "valve_0016": {
+        "urdf_path": "twist_dataset/twist_dataset_urdf/valve/valve_0016/urdf/valve_0016_modified.urdf",
+        "dx": 0.03,
+        "dy": -0.08,
+        "dz": -0.12,
+        "kp_bais": [
+            [
+                0,
+                0.03,
+                0.0
+            ],
+            [
+                0,
+                -0.03,
+                0.0
+            ],
+            [
+                -0.03,
+                0,
+                0.0
+            ]
+        ],
+        "kp_center": [
+            [
+                0,
+                0,
+                0.02
+            ]
+        ],
+        "points_feature": "twist_dataset/twist_dataset_urdf/valve/valve_0016/meshes/link1_poisson_1024_feature.npy"
+    },
+    "valve_0017": {
+        "urdf_path": "twist_dataset/twist_dataset_urdf/valve/valve_0017/urdf/valve_0017_modified.urdf",
+        "dx": 0.03,
+        "dy": -0.08,
+        "dz": -0.14,
+        "kp_bais": [
+            [
+                0,
+                0.03,
+                0.0
+            ],
+            [
+                0,
+                -0.03,
+                0.0
+            ],
+            [
+                -0.03,
+                0,
+                0.0
+            ]
+        ],
+        "kp_center": [
+            [
+                0,
+                0,
+                0.02
+            ]
+        ],
+        "points_feature": "twist_dataset/twist_dataset_urdf/valve/valve_0017/meshes/link1_poisson_1024_feature.npy"
+    },
+    "valve_0018": {
+        "urdf_path": "twist_dataset/twist_dataset_urdf/valve/valve_0018/urdf/valve_0018_modified.urdf",
+        "dx": 0.03,
+        "dy": -0.08,
+        "dz": -0.13,
+        "kp_bais": [
+            [
+                0,
+                0.03,
+                0.0
+            ],
+            [
+                0,
+                -0.03,
+                0.0
+            ],
+            [
+                -0.03,
+                0,
+                0.0
+            ]
+        ],
+        "kp_center": [
+            [
+                0,
+                0,
+                -0.01
+            ]
+        ],
+        "points_feature": "twist_dataset/twist_dataset_urdf/valve/valve_0018/meshes/link1_poisson_1024_feature.npy"
+    },
+    "valve_0019": {
+        "urdf_path": "twist_dataset/twist_dataset_urdf/valve/valve_0019/urdf/valve_0019_modified.urdf",
+        "dx": 0.03,
+        "dy": -0.08,
+        "dz": -0.13,
+        "kp_bais": [
+            [
+                0,
+                0.03,
+                0.0
+            ],
+            [
+                0,
+                -0.03,
+                0.0
+            ],
+            [
+                -0.03,
+                0,
+                0.0
+            ]
+        ],
+        "kp_center": [
+            [
+                0,
+                0,
+                -0.01
+            ]
+        ],
+        "points_feature": "twist_dataset/twist_dataset_urdf/valve/valve_0019/meshes/link1_poisson_1024_feature.npy"
+    },
+    "valve_0020": {
+        "urdf_path": "twist_dataset/twist_dataset_urdf/valve/valve_0020/urdf/valve_0020_modified.urdf",
+        "dx": 0.03,
+        "dy": -0.08,
+        "dz": -0.14,
+        "kp_bais": [
+            [
+                0,
+                0.04,
+                0.0
+            ],
+            [
+                0,
+                -0.04,
+                0.0
+            ],
+            [
+                -0.04,
+                0,
+                0.0
+            ]
+        ],
+        "kp_center": [
+            [
+                0,
+                0,
+                0.02
+            ]
+        ],
+        "points_feature": "twist_dataset/twist_dataset_urdf/valve/valve_0020/meshes/link1_poisson_1024_feature.npy"
+    },
+    "valve_0007": {
+        "urdf_path": "twist_dataset/twist_dataset_urdf/valve/valve_0007/urdf/valve_0007_modified.urdf",
+        "dx": 0.03,
+        "dy": -0.08,
+        "dz": -0.14,
+        "kp_bais": [
+            [
+                0,
+                0.03,
+                0.0
+            ],
+            [
+                0,
+                -0.03,
+                0.0
+            ],
+            [
+                -0.03,
+                0,
+                0.0
+            ]
+        ],
+        "kp_center": [
+            [
+                0,
+                0,
+                0.02
+            ]
+        ],
+        "points_feature": "twist_dataset/twist_dataset_urdf/valve/valve_0007/meshes/link1_poisson_1024_feature.npy"
+    },
+    "valve_0021": {
+        "urdf_path": "twist_dataset/twist_dataset_urdf/valve/valve_0021/urdf/valve_0021_modified.urdf",
+        "dx": 0.03,
+        "dy": -0.08,
+        "dz": -0.14,
+        "kp_bais": [
+            [
+                0,
+                0.03,
+                0.0
+            ],
+            [
+                0,
+                -0.03,
+                0.0
+            ],
+            [
+                -0.03,
+                0,
+                0.0
+            ]
+        ],
+        "kp_center": [
+            [
+                0,
+                0,
+                0.02
+            ]
+        ],
+        "points_feature": "twist_dataset/twist_dataset_urdf/valve/valve_0021/meshes/link1_poisson_1024_feature.npy"
+    },
+    "valve_0008": {
+        "urdf_path": "twist_dataset/twist_dataset_urdf/valve/valve_0008/urdf/valve_0008_modified.urdf",
+        "dx": 0.03,
+        "dy": -0.06,
+        "dz": -0.16,
+        "kp_bais": [
+            [
+                0,
+                0.06,
+                0.0
+            ],
+            [
+                0,
+                -0.06,
+                0.0
+            ],
+            [
+                -0.06,
+                0,
+                0.0
+            ]
+        ],
+        "kp_center": [
+            [
+                0,
+                0,
+                0.02
+            ]
+        ],
+        "points_feature": "twist_dataset/twist_dataset_urdf/valve/valve_0008/meshes/link1_poisson_1024_feature.npy"
+    },
+    "valve_0022": {
+        "urdf_path": "twist_dataset/twist_dataset_urdf/valve/valve_0022/urdf/valve_0022_modified.urdf",
+        "dx": 0.03,
+        "dy": -0.08,
+        "dz": -0.12,
+        "kp_bais": [
+            [
+                0,
+                0.03,
+                0.0
+            ],
+            [
+                0,
+                -0.03,
+                0.0
+            ],
+            [
+                -0.03,
+                0,
+                0.0
+            ]
+        ],
+        "kp_center": [
+            [
+                0,
+                0,
+                -0.01
+            ]
+        ],
+        "points_feature": "twist_dataset/twist_dataset_urdf/valve/valve_0022/meshes/link1_poisson_1024_feature.npy"
+    },
+    "valve_0023": {
+        "urdf_path": "twist_dataset/twist_dataset_urdf/valve/valve_0023/urdf/valve_0023_modified.urdf",
+        "dx": 0.03,
+        "dy": -0.08,
+        "dz": -0.14,
+        "kp_bais": [
+            [
+                0,
+                0.03,
+                0.0
+            ],
+            [
+                0,
+                -0.03,
+                0.0
+            ],
+            [
+                -0.03,
+                0,
+                0.0
+            ]
+        ],
+        "kp_center": [
+            [
+                0,
+                0,
+                0.02
+            ]
+        ],
+        "points_feature": "twist_dataset/twist_dataset_urdf/valve/valve_0023/meshes/link1_poisson_1024_feature.npy"
+    },
+    "valve_0024": {
+        "urdf_path": "twist_dataset/twist_dataset_urdf/valve/valve_0024/urdf/valve_0024_modified.urdf",
+        "dx": 0.03,
+        "dy": -0.08,
+        "dz": -0.15,
+        "kp_bais": [
+            [
+                0,
+                0.04,
+                0.0
+            ],
+            [
+                0,
+                -0.04,
+                0.0
+            ],
+            [
+                -0.04,
+                0,
+                0.0
+            ]
+        ],
+        "kp_center": [
+            [
+                0,
+                0,
+                0.02
+            ]
+        ],
+        "points_feature": "twist_dataset/twist_dataset_urdf/valve/valve_0024/meshes/link1_poisson_1024_feature.npy"
+    },
+    "valve_0025": {
+        "urdf_path": "twist_dataset/twist_dataset_urdf/valve/valve_0025/urdf/valve_0025_modified.urdf",
+        "dx": 0.03,
+        "dy": -0.08,
+        "dz": -0.12,
+        "kp_bais": [
+            [
+                0,
+                0.03,
+                0.0
+            ],
+            [
+                0,
+                -0.03,
+                0.0
+            ],
+            [
+                -0.03,
+                0,
+                0.0
+            ]
+        ],
+        "kp_center": [
+            [
+                0,
+                0,
+                -0.02
+            ]
+        ],
+        "points_feature": "twist_dataset/twist_dataset_urdf/valve/valve_0025/meshes/link1_poisson_1024_feature.npy"
+    },
+    "valve_0026": {
+        "urdf_path": "twist_dataset/twist_dataset_urdf/valve/valve_0026/urdf/valve_0026_modified.urdf",
+        "dx": 0.03,
+        "dy": -0.08,
+        "dz": -0.14,
+        "kp_bais": [
+            [
+                0,
+                0.03,
+                0.0
+            ],
+            [
+                0,
+                -0.03,
+                0.0
+            ],
+            [
+                -0.03,
+                0,
+                0.0
+            ]
+        ],
+        "kp_center": [
+            [
+                0,
+                0,
+                0.02
+            ]
+        ],
+        "points_feature": "twist_dataset/twist_dataset_urdf/valve/valve_0026/meshes/link1_poisson_1024_feature.npy"
+    },
+    "valve_0027": {
+        "urdf_path": "twist_dataset/twist_dataset_urdf/valve/valve_0027/urdf/valve_0027_modified.urdf",
+        "dx": 0.03,
+        "dy": -0.08,
+        "dz": -0.12,
+        "kp_bais": [
+            [
+                0,
+                0.03,
+                0.0
+            ],
+            [
+                0,
+                -0.03,
+                0.0
+            ],
+            [
+                -0.03,
+                0,
+                0.0
+            ]
+        ],
+        "kp_center": [
+            [
+                0,
+                0,
+                -0.005
+            ]
+        ],
+        "points_feature": "twist_dataset/twist_dataset_urdf/valve/valve_0027/meshes/link1_poisson_1024_feature.npy"
+    },
+    "valve_0028": {
+        "urdf_path": "twist_dataset/twist_dataset_urdf/valve/valve_0028/urdf/valve_0028_modified.urdf",
+        "dx": 0.03,
+        "dy": -0.08,
+        "dz": -0.14,
+        "kp_bais": [
+            [
+                0,
+                0.03,
+                0.0
+            ],
+            [
+                0,
+                -0.03,
+                0.0
+            ],
+            [
+                -0.03,
+                0,
+                0.0
+            ]
+        ],
+        "kp_center": [
+            [
+                0,
+                0,
+                0.02
+            ]
+        ],
+        "points_feature": "twist_dataset/twist_dataset_urdf/valve/valve_0028/meshes/link1_poisson_1024_feature.npy"
+    },
+    "valve_0029": {
+        "urdf_path": "twist_dataset/twist_dataset_urdf/valve/valve_0029/urdf/valve_0029_modified.urdf",
+        "dx": 0.03,
+        "dy": -0.08,
+        "dz": -0.12,
+        "kp_bais": [
+            [
+                0,
+                0.03,
+                0.0
+            ],
+            [
+                0,
+                -0.03,
+                0.0
+            ],
+            [
+                -0.03,
+                0,
+                0.0
+            ]
+        ],
+        "kp_center": [
+            [
+                0,
+                0,
+                0.02
+            ]
+        ],
+        "points_feature": "twist_dataset/twist_dataset_urdf/valve/valve_0029/meshes/link1_poisson_1024_feature.npy"
+    },
+    "valve_0030": {
+        "urdf_path": "twist_dataset/twist_dataset_urdf/valve/valve_0030/urdf/valve_0030_modified.urdf",
+        "dx": 0.03,
+        "dy": -0.08,
+        "dz": -0.14,
+        "kp_bais": [
+            [
+                0,
+                0.03,
+                0.0
+            ],
+            [
+                0,
+                -0.03,
+                0.0
+            ],
+            [
+                -0.03,
+                0,
+                0.0
+            ]
+        ],
+        "kp_center": [
+            [
+                0,
+                0,
+                0.02
+            ]
+        ],
+        "points_feature": "twist_dataset/twist_dataset_urdf/valve/valve_0030/meshes/link1_poisson_1024_feature.npy"
+    },
+    "valve_0031": {
+        "urdf_path": "twist_dataset/twist_dataset_urdf/valve/valve_0031/urdf/valve_0031_modified.urdf",
+        "dx": 0.03,
+        "dy": -0.08,
+        "dz": -0.12,
+        "kp_bais": [
+            [
+                0,
+                0.03,
+                0.0
+            ],
+            [
+                0,
+                -0.03,
+                0.0
+            ],
+            [
+                -0.03,
+                0,
+                0.0
+            ]
+        ],
+        "kp_center": [
+            [
+                0,
+                0,
+                0.0
+            ]
+        ],
+        "points_feature": "twist_dataset/twist_dataset_urdf/valve/valve_0031/meshes/link1_poisson_1024_feature.npy"
+    },
+    "valve_0032": {
+        "urdf_path": "twist_dataset/twist_dataset_urdf/valve/valve_0032/urdf/valve_0032_modified.urdf",
+        "dx": 0.03,
+        "dy": -0.08,
+        "dz": -0.14,
+        "kp_bais": [
+            [
+                0,
+                0.03,
+                0.0
+            ],
+            [
+                0,
+                -0.03,
+                0.0
+            ],
+            [
+                -0.03,
+                0,
+                0.0
+            ]
+        ],
+        "kp_center": [
+            [
+                0,
+                0,
+                0.02
+            ]
+        ],
+        "points_feature": "twist_dataset/twist_dataset_urdf/valve/valve_0032/meshes/link1_poisson_1024_feature.npy"
+    },
+    "valve_0033": {
+        "urdf_path": "twist_dataset/twist_dataset_urdf/valve/valve_0033/urdf/valve_0033_modified.urdf",
+        "dx": 0.03,
+        "dy": -0.08,
+        "dz": -0.13,
+        "kp_bais": [
+            [
+                0,
+                0.03,
+                0.0
+            ],
+            [
+                0,
+                -0.03,
+                0.0
+            ],
+            [
+                -0.03,
+                0,
+                0.0
+            ]
+        ],
+        "kp_center": [
+            [
+                0,
+                0,
+                0.02
+            ]
+        ],
+        "points_feature": "twist_dataset/twist_dataset_urdf/valve/valve_0033/meshes/link1_poisson_1024_feature.npy"
+    },
+    "valve_0034": {
+        "urdf_path": "twist_dataset/twist_dataset_urdf/valve/valve_0034/urdf/valve_0034_modified.urdf",
+        "dx": 0.03,
+        "dy": -0.08,
+        "dz": -0.15,
+        "kp_bais": [
+            [
+                0,
+                0.03,
+                0.0
+            ],
+            [
+                0,
+                -0.03,
+                0.0
+            ],
+            [
+                -0.03,
+                0,
+                0.0
+            ]
+        ],
+        "kp_center": [
+            [
+                0,
+                0,
+                0.07
+            ]
+        ],
+        "points_feature": "twist_dataset/twist_dataset_urdf/valve/valve_0034/meshes/link1_poisson_1024_feature.npy"
+    },
+    "valve_0035": {
+        "urdf_path": "twist_dataset/twist_dataset_urdf/valve/valve_0035/urdf/valve_0035_modified.urdf",
+        "dx": 0.03,
+        "dy": -0.08,
+        "dz": -0.16,
+        "kp_bais": [
+            [
+                0,
+                0.03,
+                0.0
+            ],
+            [
+                0,
+                -0.03,
+                0.0
+            ],
+            [
+                -0.03,
+                0,
+                0.0
+            ]
+        ],
+        "kp_center": [
+            [
+                0,
+                0,
+                0.05
+            ]
+        ],
+        "points_feature": "twist_dataset/twist_dataset_urdf/valve/valve_0035/meshes/link1_poisson_1024_feature.npy"
+    },
+    "valve_0036": {
+        "urdf_path": "twist_dataset/twist_dataset_urdf/valve/valve_0036/urdf/valve_0036_modified.urdf",
+        "dx": 0.03,
+        "dy": -0.08,
+        "dz": -0.14,
+        "kp_bais": [
+            [
+                0,
+                0.03,
+                0.0
+            ],
+            [
+                0,
+                -0.03,
+                0.0
+            ],
+            [
+                -0.03,
+                0,
+                0.0
+            ]
+        ],
+        "kp_center": [
+            [
+                0,
+                0,
+                0.02
+            ]
+        ],
+        "points_feature": "twist_dataset/twist_dataset_urdf/valve/valve_0036/meshes/link1_poisson_1024_feature.npy"
+    },
+    "valve_0037": {
+        "urdf_path": "twist_dataset/twist_dataset_urdf/valve/valve_0037/urdf/valve_0037_modified.urdf",
+        "dx": 0.03,
+        "dy": -0.08,
+        "dz": -0.12,
+        "kp_bais": [
+            [
+                0,
+                0.04,
+                0.0
+            ],
+            [
+                0,
+                -0.04,
+                0.0
+            ],
+            [
+                -0.04,
+                0,
+                0.0
+            ]
+        ],
+        "kp_center": [
+            [
+                0,
+                0,
+                -0.02
+            ]
+        ],
+        "points_feature": "twist_dataset/twist_dataset_urdf/valve/valve_0037/meshes/link1_poisson_1024_feature.npy"
+    },
+    "valve_0038": {
+        "urdf_path": "twist_dataset/twist_dataset_urdf/valve/valve_0038/urdf/valve_0038_modified.urdf",
+        "dx": 0.03,
+        "dy": -0.08,
+        "dz": -0.12,
+        "kp_bais": [
+            [
+                0,
+                0.03,
+                0.0
+            ],
+            [
+                0,
+                -0.03,
+                0.0
+            ],
+            [
+                -0.03,
+                0,
+                0.0
+            ]
+        ],
+        "kp_center": [
+            [
+                0,
+                0,
+                -0.02
+            ]
+        ],
+        "points_feature": "twist_dataset/twist_dataset_urdf/valve/valve_0038/meshes/link1_poisson_1024_feature.npy"
+    },
+    "valve_0039": {
+        "urdf_path": "twist_dataset/twist_dataset_urdf/valve/valve_0039/urdf/valve_0039_modified.urdf",
+        "dx": 0.03,
+        "dy": -0.08,
+        "dz": -0.12,
+        "kp_bais": [
+            [
+                0,
+                0.03,
+                0.0
+            ],
+            [
+                0,
+                -0.03,
+                0.0
+            ],
+            [
+                -0.03,
+                0,
+                0.0
+            ]
+        ],
+        "kp_center": [
+            [
+                0,
+                0,
+                0.02
+            ]
+        ],
+        "points_feature": "twist_dataset/twist_dataset_urdf/valve/valve_0039/meshes/link1_poisson_1024_feature.npy"
+    },
+    "valve_0040": {
+        "urdf_path": "twist_dataset/twist_dataset_urdf/valve/valve_0040/urdf/valve_0040_modified.urdf",
+        "dx": 0.03,
+        "dy": -0.08,
+        "dz": -0.14,
+        "kp_bais": [
+            [
+                0,
+                0.03,
+                0.0
+            ],
+            [
+                0,
+                -0.03,
+                0.0
+            ],
+            [
+                -0.03,
+                0,
+                0.0
+            ]
+        ],
+        "kp_center": [
+            [
+                0,
+                0,
+                0.02
+            ]
+        ],
+        "points_feature": "twist_dataset/twist_dataset_urdf/valve/valve_0040/meshes/link1_poisson_1024_feature.npy"
+    },
+    "valve_0041": {
+        "urdf_path": "twist_dataset/twist_dataset_urdf/valve/valve_0041/urdf/valve_0041_modified.urdf",
+        "dx": 0.03,
+        "dy": -0.08,
+        "dz": -0.14,
+        "kp_bais": [
+            [
+                0,
+                0.03,
+                0.0
+            ],
+            [
+                0,
+                -0.03,
+                0.0
+            ],
+            [
+                -0.03,
+                0,
+                0.0
+            ]
+        ],
+        "kp_center": [
+            [
+                0,
+                0,
+                0.02
+            ]
+        ],
+        "points_feature": "twist_dataset/twist_dataset_urdf/valve/valve_0041/meshes/link1_poisson_1024_feature.npy"
+    },
+    "valve_0042": {
+        "urdf_path": "twist_dataset/twist_dataset_urdf/valve/valve_0042/urdf/valve_0042_modified.urdf",
+        "dx": 0.03,
+        "dy": -0.08,
+        "dz": -0.1,
+        "kp_bais": [
+            [
+                0,
+                0.03,
+                0.0
+            ],
+            [
+                0,
+                -0.03,
+                0.0
+            ],
+            [
+                -0.03,
+                0,
+                0.0
+            ]
+        ],
+        "kp_center": [
+            [
+                0,
+                0,
+                -0.03
+            ]
+        ],
+        "points_feature": "twist_dataset/twist_dataset_urdf/valve/valve_0042/meshes/link1_poisson_1024_feature.npy"
+    }
+}

@@ -1,0 +1,746 @@
+{
+    "shampoo_bottle_0003": {
+        "urdf_path": "twist_dataset/twist_dataset_urdf/shampoo_bottle/shampoo_bottle_0003/urdf/shampoo_bottle_0003_modified.urdf",
+        "dx": 0.03,
+        "dy": -0.08,
+        "dz": -0.11,
+        "kp_bais": [
+            [
+                0,
+                0.03,
+                0.0
+            ],
+            [
+                0,
+                -0.03,
+                0.0
+            ],
+            [
+                -0.03,
+                0,
+                0.0
+            ]
+        ],
+        "kp_center": [
+            [
+                0,
+                0,
+                -0.02
+            ]
+        ],
+        "points_feature": "twist_dataset/twist_dataset_urdf/shampoo_bottle/shampoo_bottle_0003/meshes/link1_poisson_1024_feature.npy"
+    },
+    "shampoo_bottle_0009": {
+        "urdf_path": "twist_dataset/twist_dataset_urdf/shampoo_bottle/shampoo_bottle_0009/urdf/shampoo_bottle_0009_modified.urdf",
+        "dx": 0.03,
+        "dy": -0.08,
+        "dz": -0.12,
+        "kp_bais": [
+            [
+                0,
+                0.03,
+                0.0
+            ],
+            [
+                0,
+                -0.03,
+                0.0
+            ],
+            [
+                -0.03,
+                0,
+                0.0
+            ]
+        ],
+        "kp_center": [
+            [
+                0,
+                0,
+                0.0
+            ]
+        ],
+        "points_feature": "twist_dataset/twist_dataset_urdf/shampoo_bottle/shampoo_bottle_0009/meshes/link1_poisson_1024_feature.npy"
+    },
+    "shampoo_bottle_0010": {
+        "urdf_path": "twist_dataset/twist_dataset_urdf/shampoo_bottle/shampoo_bottle_0010/urdf/shampoo_bottle_0010_modified.urdf",
+        "dx": 0.03,
+        "dy": -0.08,
+        "dz": -0.12,
+        "kp_bais": [
+            [
+                0,
+                0.03,
+                0.0
+            ],
+            [
+                0,
+                -0.03,
+                0.0
+            ],
+            [
+                -0.03,
+                0,
+                0.0
+            ]
+        ],
+        "kp_center": [
+            [
+                0,
+                0,
+                0.0
+            ]
+        ],
+        "points_feature": "twist_dataset/twist_dataset_urdf/shampoo_bottle/shampoo_bottle_0010/meshes/link1_poisson_1024_feature.npy"
+    },
+    "shampoo_bottle_0011": {
+        "urdf_path": "twist_dataset/twist_dataset_urdf/shampoo_bottle/shampoo_bottle_0011/urdf/shampoo_bottle_0011_modified.urdf",
+        "dx": 0.03,
+        "dy": -0.08,
+        "dz": -0.12,
+        "kp_bais": [
+            [
+                0,
+                0.03,
+                0.0
+            ],
+            [
+                0,
+                -0.03,
+                0.0
+            ],
+            [
+                -0.03,
+                0,
+                0.0
+            ]
+        ],
+        "kp_center": [
+            [
+                0,
+                0,
+                0.0
+            ]
+        ],
+        "points_feature": "twist_dataset/twist_dataset_urdf/shampoo_bottle/shampoo_bottle_0011/meshes/link1_poisson_1024_feature.npy"
+    },
+    "shampoo_bottle_0012": {
+        "urdf_path": "twist_dataset/twist_dataset_urdf/shampoo_bottle/shampoo_bottle_0012/urdf/shampoo_bottle_0012_modified.urdf",
+        "dx": 0.03,
+        "dy": -0.08,
+        "dz": -0.12,
+        "kp_bais": [
+            [
+                0,
+                0.02,
+                0.0
+            ],
+            [
+                0,
+                -0.02,
+                0.0
+            ],
+            [
+                -0.02,
+                0,
+                0.0
+            ]
+        ],
+        "kp_center": [
+            [
+                0,
+                0,
+                0.0
+            ]
+        ],
+        "points_feature": "twist_dataset/twist_dataset_urdf/shampoo_bottle/shampoo_bottle_0010/meshes/link1_poisson_1024_feature.npy"
+    },
+    "shampoo_bottle_0013": {
+        "urdf_path": "twist_dataset/twist_dataset_urdf/shampoo_bottle/shampoo_bottle_0013/urdf/shampoo_bottle_0013_modified.urdf",
+        "dx": 0.03,
+        "dy": -0.08,
+        "dz": -0.12,
+        "kp_bais": [
+            [
+                0,
+                0.03,
+                0.0
+            ],
+            [
+                0,
+                -0.03,
+                0.0
+            ],
+            [
+                -0.03,
+                0,
+                0.0
+            ]
+        ],
+        "kp_center": [
+            [
+                0,
+                0,
+                0.0
+            ]
+        ],
+        "points_feature": "twist_dataset/twist_dataset_urdf/shampoo_bottle/shampoo_bottle_0013/meshes/link1_poisson_1024_feature.npy"
+    },
+    "shampoo_bottle_0014": {
+        "urdf_path": "twist_dataset/twist_dataset_urdf/shampoo_bottle/shampoo_bottle_0014/urdf/shampoo_bottle_0014_modified.urdf",
+        "dx": 0.03,
+        "dy": -0.08,
+        "dz": -0.12,
+        "kp_bais": [
+            [
+                0,
+                0.03,
+                0.0
+            ],
+            [
+                0,
+                -0.03,
+                0.0
+            ],
+            [
+                -0.03,
+                0,
+                0.0
+            ]
+        ],
+        "kp_center": [
+            [
+                0,
+                0,
+                0.0
+            ]
+        ],
+        "points_feature": "twist_dataset/twist_dataset_urdf/shampoo_bottle/shampoo_bottle_0014/meshes/link1_poisson_1024_feature.npy"
+    },
+    "shampoo_bottle_0015": {
+        "urdf_path": "twist_dataset/twist_dataset_urdf/shampoo_bottle/shampoo_bottle_0015/urdf/shampoo_bottle_0015_modified.urdf",
+        "dx": 0.03,
+        "dy": -0.08,
+        "dz": -0.115,
+        "kp_bais": [
+            [
+                0,
+                0.03,
+                0.0
+            ],
+            [
+                0,
+                -0.03,
+                0.0
+            ],
+            [
+                -0.03,
+                0,
+                0.0
+            ]
+        ],
+        "kp_center": [
+            [
+                0,
+                0,
+                0.0
+            ]
+        ],
+        "points_feature": "twist_dataset/twist_dataset_urdf/shampoo_bottle/shampoo_bottle_0015/meshes/link1_poisson_1024_feature.npy"
+    },
+    "shampoo_bottle_0016": {
+        "urdf_path": "twist_dataset/twist_dataset_urdf/shampoo_bottle/shampoo_bottle_0016/urdf/shampoo_bottle_0016_modified.urdf",
+        "dx": 0.03,
+        "dy": -0.08,
+        "dz": -0.11,
+        "kp_bais": [
+            [
+                0,
+                0.03,
+                0.0
+            ],
+            [
+                0,
+                -0.03,
+                0.0
+            ],
+            [
+                -0.03,
+                0,
+                0.0
+            ]
+        ],
+        "kp_center": [
+            [
+                0,
+                0,
+                -0.01
+            ]
+        ],
+        "points_feature": "twist_dataset/twist_dataset_urdf/shampoo_bottle/shampoo_bottle_0016/meshes/link1_poisson_1024_feature.npy"
+    },
+    "shampoo_bottle_0017": {
+        "urdf_path": "twist_dataset/twist_dataset_urdf/shampoo_bottle/shampoo_bottle_0017/urdf/shampoo_bottle_0017_modified.urdf",
+        "dx": 0.03,
+        "dy": -0.08,
+        "dz": -0.1,
+        "kp_bais": [
+            [
+                0,
+                0.03,
+                0.0
+            ],
+            [
+                0,
+                -0.03,
+                0.0
+            ],
+            [
+                -0.03,
+                0,
+                0.0
+            ]
+        ],
+        "kp_center": [
+            [
+                0,
+                0,
+                -0.01
+            ]
+        ],
+        "points_feature": "twist_dataset/twist_dataset_urdf/shampoo_bottle/shampoo_bottle_0017/meshes/link1_poisson_1024_feature.npy"
+    },
+    "shampoo_bottle_0018": {
+        "urdf_path": "twist_dataset/twist_dataset_urdf/shampoo_bottle/shampoo_bottle_0018/urdf/shampoo_bottle_0018_modified.urdf",
+        "dx": 0.03,
+        "dy": -0.08,
+        "dz": -0.1,
+        "kp_bais": [
+            [
+                0,
+                0.03,
+                0.0
+            ],
+            [
+                0,
+                -0.03,
+                0.0
+            ],
+            [
+                -0.03,
+                0,
+                0.0
+            ]
+        ],
+        "kp_center": [
+            [
+                0,
+                0,
+                -0.02
+            ]
+        ],
+        "points_feature": "twist_dataset/twist_dataset_urdf/shampoo_bottle/shampoo_bottle_0018/meshes/link1_poisson_1024_feature.npy"
+    },
+    "shampoo_bottle_0019": {
+        "urdf_path": "twist_dataset/twist_dataset_urdf/shampoo_bottle/shampoo_bottle_0019/urdf/shampoo_bottle_0019_modified.urdf",
+        "dx": 0.03,
+        "dy": -0.08,
+        "dz": -0.11,
+        "kp_bais": [
+            [
+                0,
+                0.03,
+                0.0
+            ],
+            [
+                0,
+                -0.03,
+                0.0
+            ],
+            [
+                -0.03,
+                0,
+                0.0
+            ]
+        ],
+        "kp_center": [
+            [
+                0,
+                0,
+                0.0
+            ]
+        ],
+        "points_feature": "twist_dataset/twist_dataset_urdf/shampoo_bottle/shampoo_bottle_0019/meshes/link1_poisson_1024_feature.npy"
+    },
+    "shampoo_bottle_0020": {
+        "urdf_path": "twist_dataset/twist_dataset_urdf/shampoo_bottle/shampoo_bottle_0020/urdf/shampoo_bottle_0020_modified.urdf",
+        "dx": 0.03,
+        "dy": -0.08,
+        "dz": -0.11,
+        "kp_bais": [
+            [
+                0,
+                0.03,
+                0.0
+            ],
+            [
+                0,
+                -0.03,
+                0.0
+            ],
+            [
+                -0.03,
+                0,
+                0.0
+            ]
+        ],
+        "kp_center": [
+            [
+                0,
+                0,
+                0.0
+            ]
+        ],
+        "points_feature": "twist_dataset/twist_dataset_urdf/shampoo_bottle/shampoo_bottle_0020/meshes/link1_poisson_1024_feature.npy"
+    },
+    "shampoo_bottle_0023": {
+        "urdf_path": "twist_dataset/twist_dataset_urdf/shampoo_bottle/shampoo_bottle_0023/urdf/shampoo_bottle_0023_modified.urdf",
+        "dx": 0.03,
+        "dy": -0.08,
+        "dz": -0.11,
+        "kp_bais": [
+            [
+                0,
+                0.02,
+                0.0
+            ],
+            [
+                0,
+                -0.02,
+                0.0
+            ],
+            [
+                -0.02,
+                0,
+                0.0
+            ]
+        ],
+        "kp_center": [
+            [
+                0,
+                0,
+                0.0
+            ]
+        ],
+        "points_feature": "twist_dataset/twist_dataset_urdf/shampoo_bottle/shampoo_bottle_0023/meshes/link1_poisson_1024_feature.npy"
+    },
+    "shampoo_bottle_0024": {
+        "urdf_path": "twist_dataset/twist_dataset_urdf/shampoo_bottle/shampoo_bottle_0024/urdf/shampoo_bottle_0024_modified.urdf",
+        "dx": 0.03,
+        "dy": -0.08,
+        "dz": -0.11,
+        "kp_bais": [
+            [
+                0,
+                0.03,
+                0.0
+            ],
+            [
+                0,
+                -0.03,
+                0.0
+            ],
+            [
+                -0.03,
+                0,
+                0.0
+            ]
+        ],
+        "kp_center": [
+            [
+                0,
+                0,
+                -0.03
+            ]
+        ],
+        "points_feature": "twist_dataset/twist_dataset_urdf/shampoo_bottle/shampoo_bottle_0024/meshes/link1_poisson_1024_feature.npy"
+    },
+    "shampoo_bottle_0006": {
+        "urdf_path": "twist_dataset/twist_dataset_urdf/shampoo_bottle/shampoo_bottle_0006/urdf/shampoo_bottle_0006_modified.urdf",
+        "dx": 0.03,
+        "dy": -0.08,
+        "dz": -0.12,
+        "kp_bais": [
+            [
+                0,
+                0.03,
+                0.0
+            ],
+            [
+                0,
+                -0.03,
+                0.0
+            ],
+            [
+                -0.03,
+                0,
+                0.0
+            ]
+        ],
+        "kp_center": [
+            [
+                0,
+                0,
+                -0.015
+            ]
+        ],
+        "points_feature": "twist_dataset/twist_dataset_urdf/shampoo_bottle/shampoo_bottle_0006/meshes/link1_poisson_1024_feature.npy"
+    },
+    "shampoo_bottle_0007": {
+        "urdf_path": "twist_dataset/twist_dataset_urdf/shampoo_bottle/shampoo_bottle_0007/urdf/shampoo_bottle_0007_modified.urdf",
+        "dx": 0.03,
+        "dy": -0.08,
+        "dz": -0.11,
+        "kp_bais": [
+            [
+                0,
+                0.03,
+                0.0
+            ],
+            [
+                0,
+                -0.03,
+                0.0
+            ],
+            [
+                -0.03,
+                0,
+                0.0
+            ]
+        ],
+        "kp_center": [
+            [
+                0,
+                0,
+                -0.02
+            ]
+        ],
+        "points_feature": "twist_dataset/twist_dataset_urdf/shampoo_bottle/shampoo_bottle_0007/meshes/link1_poisson_1024_feature.npy"
+    },
+    "shampoo_bottle_0021": {
+        "urdf_path": "twist_dataset/twist_dataset_urdf/shampoo_bottle/shampoo_bottle_0021/urdf/shampoo_bottle_0021_modified.urdf",
+        "dx": 0.03,
+        "dy": -0.08,
+        "dz": -0.12,
+        "kp_bais": [
+            [
+                0,
+                0.03,
+                0.0
+            ],
+            [
+                0,
+                -0.03,
+                0.0
+            ],
+            [
+                -0.03,
+                0,
+                0.0
+            ]
+        ],
+        "kp_center": [
+            [
+                0,
+                0,
+                -0.03
+            ]
+        ],
+        "points_feature": "twist_dataset/twist_dataset_urdf/shampoo_bottle/shampoo_bottle_0021/meshes/link1_poisson_1024_feature.npy"
+    },
+    "shampoo_bottle_0008": {
+        "urdf_path": "twist_dataset/twist_dataset_urdf/shampoo_bottle/shampoo_bottle_0008/urdf/shampoo_bottle_0008_modified.urdf",
+        "dx": 0.03,
+        "dy": -0.08,
+        "dz": -0.1,
+        "kp_bais": [
+            [
+                0,
+                0.03,
+                0.0
+            ],
+            [
+                0,
+                -0.03,
+                0.0
+            ],
+            [
+                -0.03,
+                0,
+                0.0
+            ]
+        ],
+        "kp_center": [
+            [
+                0,
+                0,
+                -0.01
+            ]
+        ],
+        "points_feature": "twist_dataset/twist_dataset_urdf/shampoo_bottle/shampoo_bottle_0008/meshes/link1_poisson_1024_feature.npy"
+    },
+    "shampoo_bottle_0022": {
+        "urdf_path": "twist_dataset/twist_dataset_urdf/shampoo_bottle/shampoo_bottle_0022/urdf/shampoo_bottle_0022_modified.urdf",
+        "dx": 0.03,
+        "dy": -0.08,
+        "dz": -0.11,
+        "kp_bais": [
+            [
+                0,
+                0.03,
+                0.0
+            ],
+            [
+                0,
+                -0.03,
+                0.0
+            ],
+            [
+                -0.03,
+                0,
+                0.0
+            ]
+        ],
+        "kp_center": [
+            [
+                0,
+                0,
+                -0.03
+            ]
+        ],
+        "points_feature": "twist_dataset/twist_dataset_urdf/shampoo_bottle/shampoo_bottle_0022/meshes/link1_poisson_1024_feature.npy"
+    },
+    "shampoo_bottle_0005": {
+        "urdf_path": "twist_dataset/twist_dataset_urdf/shampoo_bottle/shampoo_bottle_0005/urdf/shampoo_bottle_0005_modified.urdf",
+        "dx": 0.03,
+        "dy": -0.08,
+        "dz": -0.115,
+        "kp_bais": [
+            [
+                0,
+                0.03,
+                0.0
+            ],
+            [
+                0,
+                -0.03,
+                0.0
+            ],
+            [
+                -0.03,
+                0,
+                0.0
+            ]
+        ],
+        "kp_center": [
+            [
+                0,
+                0,
+                0.0
+            ]
+        ],
+        "points_feature": "twist_dataset/twist_dataset_urdf/shampoo_bottle/shampoo_bottle_0005/meshes/link1_poisson_1024_feature.npy"
+    },
+    "shampoo_bottle_0002": {
+        "urdf_path": "twist_dataset/twist_dataset_urdf/shampoo_bottle/shampoo_bottle_0002/urdf/shampoo_bottle_0002_modified.urdf",
+        "dx": 0.03,
+        "dy": -0.08,
+        "dz": -0.09,
+        "kp_bais": [
+            [
+                0,
+                0.03,
+                0.0
+            ],
+            [
+                0,
+                -0.03,
+                0.0
+            ],
+            [
+                -0.03,
+                0,
+                0.0
+            ]
+        ],
+        "kp_center": [
+            [
+                0,
+                0,
+                -0.03
+            ]
+        ],
+        "points_feature": "twist_dataset/twist_dataset_urdf/shampoo_bottle/shampoo_bottle_0002/meshes/link1_poisson_1024_feature.npy"
+    },
+    "shampoo_bottle_0001": {
+        "urdf_path": "twist_dataset/twist_dataset_urdf/shampoo_bottle/shampoo_bottle_0001/urdf/shampoo_bottle_0001_modified.urdf",
+        "dx": 0.03,
+        "dy": -0.08,
+        "dz": -0.1,
+        "kp_bais": [
+            [
+                0,
+                0.03,
+                0.0
+            ],
+            [
+                0,
+                -0.03,
+                0.0
+            ],
+            [
+                -0.03,
+                0,
+                0.0
+            ]
+        ],
+        "kp_center": [
+            [
+                0,
+                0,
+                -0.02
+            ]
+        ],
+        "points_feature": "twist_dataset/twist_dataset_urdf/shampoo_bottle/shampoo_bottle_0001/meshes/link1_poisson_1024_feature.npy"
+    },
+    "shampoo_bottle_0004": {
+        "urdf_path": "twist_dataset/twist_dataset_urdf/shampoo_bottle/shampoo_bottle_0004/urdf/shampoo_bottle_0004_modified.urdf",
+        "dx": 0.03,
+        "dy": -0.08,
+        "dz": -0.12,
+        "kp_bais": [
+            [
+                0,
+                0.02,
+                0.0
+            ],
+            [
+                0,
+                -0.02,
+                0.0
+            ],
+            [
+                -0.02,
+                0,
+                0.0
+            ]
+        ],
+        "kp_center": [
+            [
+                0,
+                0,
+                -0.01
+            ]
+        ],
+        "points_feature": "twist_dataset/twist_dataset_urdf/shampoo_bottle/shampoo_bottle_0004/meshes/link1_poisson_1024_feature.npy"
+    }
+}

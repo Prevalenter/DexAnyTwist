@@ -40,7 +40,8 @@ setup(
     include_package_data=True,
     python_requires=">=3.6",
     install_requires=INSTALL_REQUIRES,
-    packages=find_packages("."),
+    package_dir={"": "dexanytwist"},
+    packages=find_packages("dexanytwist"),
     classifiers=["Natural Language :: English", "Programming Language :: Python :: 3.6, 3.7, 3.8"],
     zip_safe=False,
 )

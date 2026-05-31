@@ -1,0 +1,839 @@
+{
+    "screwdriver_0001": {
+        "urdf_path": "twist_dataset/twist_dataset_urdf/screwdriver/screwdriver_0001/urdf/screwdriver_0001_modified.urdf",
+        "dx": 0.01,
+        "dy": -0.07,
+        "dz": -0.11,
+        "kp_bais": [
+            [
+                0,
+                0.03,
+                0.0
+            ],
+            [
+                0,
+                -0.03,
+                0.0
+            ],
+            [
+                -0.03,
+                0,
+                0.0
+            ]
+        ],
+        "kp_center": [
+            [
+                0,
+                0,
+                0.07
+            ]
+        ],
+        "points_feature": "twist_dataset/twist_dataset_urdf/screwdriver/screwdriver_0001/meshes/link1_poisson_1024_feature.npy"
+    },
+    "screwdriver_0002": {
+        "urdf_path": "twist_dataset/twist_dataset_urdf/screwdriver/screwdriver_0002/urdf/screwdriver_0002_modified.urdf",
+        "dx": 0.01,
+        "dy": -0.07,
+        "dz": -0.08,
+        "kp_bais": [
+            [
+                0,
+                0.02,
+                0.0
+            ],
+            [
+                0,
+                -0.02,
+                0.0
+            ],
+            [
+                -0.02,
+                0,
+                0.0
+            ]
+        ],
+        "kp_center": [
+            [
+                0,
+                0,
+                0.2
+            ]
+        ],
+        "points_feature": "twist_dataset/twist_dataset_urdf/screwdriver/screwdriver_0002/meshes/link1_poisson_1024_feature.npy"
+    },
+    "screwdriver_0004": {
+        "urdf_path": "twist_dataset/twist_dataset_urdf/screwdriver/screwdriver_0004/urdf/screwdriver_0004_modified.urdf",
+        "dx": 0.01,
+        "dy": -0.07,
+        "dz": -0.08,
+        "kp_bais": [
+            [
+                0,
+                0.03,
+                0.0
+            ],
+            [
+                0,
+                -0.03,
+                0.0
+            ],
+            [
+                -0.03,
+                0,
+                0.0
+            ]
+        ],
+        "kp_center": [
+            [
+                0,
+                0,
+                0.18
+            ]
+        ],
+        "points_feature": "twist_dataset/twist_dataset_urdf/screwdriver/screwdriver_0004/meshes/link1_poisson_1024_feature.npy"
+    },
+    "screwdriver_0005": {
+        "urdf_path": "twist_dataset/twist_dataset_urdf/screwdriver/screwdriver_0005/urdf/screwdriver_0005_modified.urdf",
+        "dx": 0.01,
+        "dy": -0.08,
+        "dz": -0.065,
+        "kp_bais": [
+            [
+                0,
+                0.03,
+                0.0
+            ],
+            [
+                0,
+                -0.03,
+                0.0
+            ],
+            [
+                -0.03,
+                0,
+                0.0
+            ]
+        ],
+        "kp_center": [
+            [
+                0,
+                0,
+                0.08
+            ]
+        ],
+        "points_feature": "twist_dataset/twist_dataset_urdf/screwdriver/screwdriver_0005/meshes/link1_poisson_1024_feature.npy"
+    },
+    "screwdriver_0006": {
+        "urdf_path": "twist_dataset/twist_dataset_urdf/screwdriver/screwdriver_0006/urdf/screwdriver_0006_modified.urdf",
+        "dx": 0.01,
+        "dy": -0.07,
+        "dz": -0.09,
+        "kp_bais": [
+            [
+                0,
+                0.045,
+                0.0
+            ],
+            [
+                0,
+                -0.045,
+                0.0
+            ],
+            [
+                -0.045,
+                0,
+                0.0
+            ]
+        ],
+        "kp_center": [
+            [
+                0,
+                0,
+                0.2
+            ]
+        ],
+        "points_feature": "twist_dataset/twist_dataset_urdf/screwdriver/screwdriver_0001/meshes/link1_poisson_1024_feature.npy"
+    },
+    "screwdriver_0007": {
+        "urdf_path": "twist_dataset/twist_dataset_urdf/screwdriver/screwdriver_0007/urdf/screwdriver_0007_modified.urdf",
+        "dx": 0.01,
+        "dy": -0.07,
+        "dz": -0.08,
+        "kp_bais": [
+            [
+                0,
+                0.03,
+                0.0
+            ],
+            [
+                0,
+                -0.03,
+                0.0
+            ],
+            [
+                -0.03,
+                0,
+                0.0
+            ]
+        ],
+        "kp_center": [
+            [
+                0,
+                0,
+                0.18
+            ]
+        ],
+        "points_feature": "twist_dataset/twist_dataset_urdf/screwdriver/screwdriver_0007/meshes/link1_poisson_1024_feature.npy"
+    },
+    "screwdriver_0008": {
+        "urdf_path": "twist_dataset/twist_dataset_urdf/screwdriver/screwdriver_0008/urdf/screwdriver_0008_modified.urdf",
+        "dx": 0.01,
+        "dy": -0.07,
+        "dz": -0.06,
+        "kp_bais": [
+            [
+                0,
+                0.03,
+                0.0
+            ],
+            [
+                0,
+                -0.03,
+                0.0
+            ],
+            [
+                -0.03,
+                0,
+                0.0
+            ]
+        ],
+        "kp_center": [
+            [
+                0,
+                0,
+                0.07
+            ]
+        ],
+        "points_feature": "twist_dataset/twist_dataset_urdf/screwdriver/screwdriver_0008/meshes/link1_poisson_1024_feature.npy"
+    },
+    "screwdriver_0009": {
+        "urdf_path": "twist_dataset/twist_dataset_urdf/screwdriver/screwdriver_0009/urdf/screwdriver_0009_modified.urdf",
+        "dx": 0.01,
+        "dy": -0.07,
+        "dz": -0.07,
+        "kp_bais": [
+            [
+                0,
+                0.03,
+                0.0
+            ],
+            [
+                0,
+                -0.03,
+                0.0
+            ],
+            [
+                -0.03,
+                0,
+                0.0
+            ]
+        ],
+        "kp_center": [
+            [
+                0,
+                0,
+                0.13
+            ]
+        ],
+        "points_feature": "twist_dataset/twist_dataset_urdf/screwdriver/screwdriver_0009/meshes/link1_poisson_1024_feature.npy"
+    },
+    "screwdriver_0010": {
+        "urdf_path": "twist_dataset/twist_dataset_urdf/screwdriver/screwdriver_0010/urdf/screwdriver_0010_modified.urdf",
+        "dx": 0.01,
+        "dy": -0.07,
+        "dz": -0.1,
+        "kp_bais": [
+            [
+                0,
+                0.02,
+                0.0
+            ],
+            [
+                0,
+                -0.02,
+                0.0
+            ],
+            [
+                -0.02,
+                0,
+                0.0
+            ]
+        ],
+        "kp_center": [
+            [
+                0,
+                0,
+                0.21
+            ]
+        ],
+        "points_feature": "twist_dataset/twist_dataset_urdf/screwdriver/screwdriver_0010/meshes/link1_poisson_1024_feature.npy"
+    },
+    "screwdriver_0021": {
+        "urdf_path": "twist_dataset/twist_dataset_urdf/screwdriver/screwdriver_0021/urdf/screwdriver_0021_modified.urdf",
+        "dx": 0.01,
+        "dy": -0.07,
+        "dz": -0.06,
+        "kp_bais": [
+            [
+                0,
+                0.025,
+                0.0
+            ],
+            [
+                0,
+                -0.025,
+                0.0
+            ],
+            [
+                -0.025,
+                0,
+                0.0
+            ]
+        ],
+        "kp_center": [
+            [
+                0,
+                0,
+                0.06
+            ]
+        ],
+        "points_feature": "twist_dataset/twist_dataset_urdf/screwdriver/screwdriver_0021/meshes/link1_poisson_1024_feature.npy"
+    },
+    "screwdriver_0022": {
+        "urdf_path": "twist_dataset/twist_dataset_urdf/screwdriver/screwdriver_0022/urdf/screwdriver_0022_modified.urdf",
+        "dx": 0.01,
+        "dy": -0.07,
+        "dz": -0.06,
+        "kp_bais": [
+            [
+                0,
+                0.03,
+                0.0
+            ],
+            [
+                0,
+                -0.03,
+                0.0
+            ],
+            [
+                -0.03,
+                0,
+                0.0
+            ]
+        ],
+        "kp_center": [
+            [
+                0,
+                0,
+                0.13
+            ]
+        ],
+        "points_feature": "twist_dataset/twist_dataset_urdf/screwdriver/screwdriver_0022/meshes/link1_poisson_1024_feature.npy"
+    },
+    "screwdriver_0011": {
+        "urdf_path": "twist_dataset/twist_dataset_urdf/screwdriver/screwdriver_0011/urdf/screwdriver_0011_modified.urdf",
+        "dx": 0.01,
+        "dy": -0.07,
+        "dz": -0.08,
+        "kp_bais": [
+            [
+                0,
+                0.03,
+                0.0
+            ],
+            [
+                0,
+                -0.03,
+                0.0
+            ],
+            [
+                -0.03,
+                0,
+                0.0
+            ]
+        ],
+        "kp_center": [
+            [
+                0,
+                0,
+                0.18
+            ]
+        ],
+        "points_feature": "twist_dataset/twist_dataset_urdf/screwdriver/screwdriver_0011/meshes/link1_poisson_1024_feature.npy"
+    },
+    "screwdriver_0012": {
+        "urdf_path": "twist_dataset/twist_dataset_urdf/screwdriver/screwdriver_0012/urdf/screwdriver_0012_modified.urdf",
+        "dx": 0.01,
+        "dy": -0.07,
+        "dz": -0.08,
+        "kp_bais": [
+            [
+                0,
+                0.03,
+                0.0
+            ],
+            [
+                0,
+                -0.03,
+                0.0
+            ],
+            [
+                -0.03,
+                0,
+                0.0
+            ]
+        ],
+        "kp_center": [
+            [
+                0,
+                0,
+                0.18
+            ]
+        ],
+        "points_feature": "twist_dataset/twist_dataset_urdf/screwdriver/screwdriver_0012/meshes/link1_poisson_1024_feature.npy"
+    },
+    "screwdriver_0013": {
+        "urdf_path": "twist_dataset/twist_dataset_urdf/screwdriver/screwdriver_0013/urdf/screwdriver_0013_modified.urdf",
+        "dx": 0.01,
+        "dy": -0.07,
+        "dz": -0.06,
+        "kp_bais": [
+            [
+                0,
+                0.03,
+                0.0
+            ],
+            [
+                0,
+                -0.03,
+                0.0
+            ],
+            [
+                -0.03,
+                0,
+                0.0
+            ]
+        ],
+        "kp_center": [
+            [
+                0,
+                0,
+                0.18
+            ]
+        ],
+        "points_feature": "twist_dataset/twist_dataset_urdf/screwdriver/screwdriver_0013/meshes/link1_poisson_1024_feature.npy"
+    },
+    "screwdriver_0014": {
+        "urdf_path": "twist_dataset/twist_dataset_urdf/screwdriver/screwdriver_0014/urdf/screwdriver_0014_modified.urdf",
+        "dx": 0.01,
+        "dy": -0.07,
+        "dz": -0.07,
+        "kp_bais": [
+            [
+                0,
+                0.03,
+                0.0
+            ],
+            [
+                0,
+                -0.03,
+                0.0
+            ],
+            [
+                -0.03,
+                0,
+                0.0
+            ]
+        ],
+        "kp_center": [
+            [
+                0,
+                0,
+                0.17
+            ]
+        ],
+        "points_feature": "twist_dataset/twist_dataset_urdf/screwdriver/screwdriver_0014/meshes/link1_poisson_1024_feature.npy"
+    },
+    "screwdriver_0015": {
+        "urdf_path": "twist_dataset/twist_dataset_urdf/screwdriver/screwdriver_0015/urdf/screwdriver_0015_modified.urdf",
+        "dx": 0.01,
+        "dy": -0.07,
+        "dz": -0.06,
+        "kp_bais": [
+            [
+                0,
+                0.03,
+                0.0
+            ],
+            [
+                0,
+                -0.03,
+                0.0
+            ],
+            [
+                -0.03,
+                0,
+                0.0
+            ]
+        ],
+        "kp_center": [
+            [
+                0,
+                0,
+                0.16
+            ]
+        ],
+        "points_feature": "twist_dataset/twist_dataset_urdf/screwdriver/screwdriver_0015/meshes/link1_poisson_1024_feature.npy"
+    },
+    "screwdriver_0016": {
+        "urdf_path": "twist_dataset/twist_dataset_urdf/screwdriver/screwdriver_0016/urdf/screwdriver_0016_modified.urdf",
+        "dx": 0.01,
+        "dy": -0.07,
+        "dz": -0.06,
+        "kp_bais": [
+            [
+                0,
+                0.02,
+                0.0
+            ],
+            [
+                0,
+                -0.02,
+                0.0
+            ],
+            [
+                -0.02,
+                0,
+                0.0
+            ]
+        ],
+        "kp_center": [
+            [
+                0,
+                0,
+                0.06
+            ]
+        ],
+        "points_feature": "twist_dataset/twist_dataset_urdf/screwdriver/screwdriver_0016/meshes/link1_poisson_1024_feature.npy"
+    },
+    "screwdriver_0017": {
+        "urdf_path": "twist_dataset/twist_dataset_urdf/screwdriver/screwdriver_0017/urdf/screwdriver_0017_modified.urdf",
+        "dx": 0.01,
+        "dy": -0.07,
+        "dz": -0.08,
+        "kp_bais": [
+            [
+                0,
+                0.02,
+                0.0
+            ],
+            [
+                0,
+                -0.02,
+                0.0
+            ],
+            [
+                -0.02,
+                0,
+                0.0
+            ]
+        ],
+        "kp_center": [
+            [
+                0,
+                0,
+                0.14
+            ]
+        ],
+        "points_feature": "twist_dataset/twist_dataset_urdf/screwdriver/screwdriver_0017/meshes/link1_poisson_1024_feature.npy"
+    },
+    "screwdriver_0018": {
+        "urdf_path": "twist_dataset/twist_dataset_urdf/screwdriver/screwdriver_0018/urdf/screwdriver_0018_modified.urdf",
+        "dx": 0.01,
+        "dy": -0.07,
+        "dz": -0.08,
+        "kp_bais": [
+            [
+                0,
+                0.03,
+                0.0
+            ],
+            [
+                0,
+                -0.03,
+                0.0
+            ],
+            [
+                -0.03,
+                0,
+                0.0
+            ]
+        ],
+        "kp_center": [
+            [
+                0,
+                0,
+                0.18
+            ]
+        ],
+        "points_feature": "twist_dataset/twist_dataset_urdf/screwdriver/screwdriver_0018/meshes/link1_poisson_1024_feature.npy"
+    },
+    "screwdriver_0019": {
+        "urdf_path": "twist_dataset/twist_dataset_urdf/screwdriver/screwdriver_0019/urdf/screwdriver_0019_modified.urdf",
+        "dx": 0.01,
+        "dy": -0.07,
+        "dz": -0.08,
+        "kp_bais": [
+            [
+                0,
+                0.03,
+                0.0
+            ],
+            [
+                0,
+                -0.03,
+                0.0
+            ],
+            [
+                -0.03,
+                0,
+                0.0
+            ]
+        ],
+        "kp_center": [
+            [
+                0,
+                0,
+                0.15
+            ]
+        ],
+        "points_feature": "twist_dataset/twist_dataset_urdf/screwdriver/screwdriver_0019/meshes/link1_poisson_1024_feature.npy"
+    },
+    "screwdriver_0020": {
+        "urdf_path": "twist_dataset/twist_dataset_urdf/screwdriver/screwdriver_0020/urdf/screwdriver_0020_modified.urdf",
+        "dx": 0.01,
+        "dy": -0.07,
+        "dz": -0.06,
+        "kp_bais": [
+            [
+                0,
+                0.03,
+                0.0
+            ],
+            [
+                0,
+                -0.03,
+                0.0
+            ],
+            [
+                -0.03,
+                0,
+                0.0
+            ]
+        ],
+        "kp_center": [
+            [
+                0,
+                0,
+                0.12
+            ]
+        ],
+        "points_feature": "twist_dataset/twist_dataset_urdf/screwdriver/screwdriver_0020/meshes/link1_poisson_1024_feature.npy"
+    },
+    "screwdriver_0023": {
+        "urdf_path": "twist_dataset/twist_dataset_urdf/screwdriver/screwdriver_0023/urdf/screwdriver_0023_modified.urdf",
+        "dx": 0.01,
+        "dy": -0.07,
+        "dz": -0.07,
+        "kp_bais": [
+            [
+                0,
+                0.03,
+                0.0
+            ],
+            [
+                0,
+                -0.03,
+                0.0
+            ],
+            [
+                -0.03,
+                0,
+                0.0
+            ]
+        ],
+        "kp_center": [
+            [
+                0,
+                0,
+                0.12
+            ]
+        ],
+        "points_feature": "twist_dataset/twist_dataset_urdf/screwdriver/screwdriver_0023/meshes/link1_poisson_1024_feature.npy"
+    },
+    "screwdriver_0024": {
+        "urdf_path": "twist_dataset/twist_dataset_urdf/screwdriver/screwdriver_0024/urdf/screwdriver_0024_modified.urdf",
+        "dx": 0.01,
+        "dy": -0.07,
+        "dz": -0.08,
+        "kp_bais": [
+            [
+                0,
+                0.03,
+                0.0
+            ],
+            [
+                0,
+                -0.03,
+                0.0
+            ],
+            [
+                -0.03,
+                0,
+                0.0
+            ]
+        ],
+        "kp_center": [
+            [
+                0,
+                0,
+                0.15
+            ]
+        ],
+        "points_feature": "twist_dataset/twist_dataset_urdf/screwdriver/screwdriver_0024/meshes/link1_poisson_1024_feature.npy"
+    },
+    "screwdriver_0025": {
+        "urdf_path": "twist_dataset/twist_dataset_urdf/screwdriver/screwdriver_0025/urdf/screwdriver_0025_modified.urdf",
+        "dx": 0.01,
+        "dy": -0.07,
+        "dz": -0.06,
+        "kp_bais": [
+            [
+                0,
+                0.03,
+                0.0
+            ],
+            [
+                0,
+                -0.03,
+                0.0
+            ],
+            [
+                -0.03,
+                0,
+                0.0
+            ]
+        ],
+        "kp_center": [
+            [
+                0,
+                0,
+                0.22
+            ]
+        ],
+        "points_feature": "twist_dataset/twist_dataset_urdf/screwdriver/screwdriver_0025/meshes/link1_poisson_1024_feature.npy"
+    },
+    "screwdriver_0026": {
+        "urdf_path": "twist_dataset/twist_dataset_urdf/screwdriver/screwdriver_0026/urdf/screwdriver_0026_modified.urdf",
+        "dx": 0.01,
+        "dy": -0.07,
+        "dz": -0.09,
+        "kp_bais": [
+            [
+                0,
+                0.02,
+                0.0
+            ],
+            [
+                0,
+                -0.02,
+                0.0
+            ],
+            [
+                -0.02,
+                0,
+                0.0
+            ]
+        ],
+        "kp_center": [
+            [
+                0,
+                0,
+                0.2
+            ]
+        ],
+        "points_feature": "twist_dataset/twist_dataset_urdf/screwdriver/screwdriver_0026/meshes/link1_poisson_1024_feature.npy"
+    },
+    "screwdriver_0027": {
+        "urdf_path": "twist_dataset/twist_dataset_urdf/screwdriver/screwdriver_0027/urdf/screwdriver_0027_modified.urdf",
+        "dx": 0.01,
+        "dy": -0.07,
+        "dz": -0.11,
+        "kp_bais": [
+            [
+                0,
+                0.05,
+                0.0
+            ],
+            [
+                0,
+                -0.05,
+                0.0
+            ],
+            [
+                -0.05,
+                0,
+                0.0
+            ]
+        ],
+        "kp_center": [
+            [
+                0,
+                0,
+                0.2
+            ]
+        ],
+        "points_feature": "twist_dataset/twist_dataset_urdf/screwdriver/screwdriver_0027/meshes/link1_poisson_1024_feature.npy"
+    },
+    "screwdriver_0028": {
+        "urdf_path": "twist_dataset/twist_dataset_urdf/screwdriver/screwdriver_0028/urdf/screwdriver_0028_modified.urdf",
+        "dx": 0.01,
+        "dy": -0.07,
+        "dz": -0.08,
+        "kp_bais": [
+            [
+                0,
+                0.03,
+                0.0
+            ],
+            [
+                0,
+                -0.03,
+                0.0
+            ],
+            [
+                -0.03,
+                0,
+                0.0
+            ]
+        ],
+        "kp_center": [
+            [
+                0,
+                0,
+                0.15
+            ]
+        ],
+        "points_feature": "twist_dataset/twist_dataset_urdf/screwdriver/screwdriver_0028/meshes/link1_poisson_1024_feature.npy"
+    }
+}

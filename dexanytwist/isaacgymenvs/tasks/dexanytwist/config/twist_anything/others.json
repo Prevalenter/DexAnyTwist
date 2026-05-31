@@ -1,0 +1,777 @@
+{
+    "others_0001": {
+        "urdf_path": "twist_dataset/twist_dataset_urdf/others/others_0001/urdf/others_0001_modified.urdf",
+        "dx": 0.03,
+        "dy": -0.08,
+        "dz": -0.14,
+        "kp_bais": [
+            [
+                0,
+                0.02,
+                0.0
+            ],
+            [
+                0,
+                -0.02,
+                0.0
+            ],
+            [
+                -0.02,
+                0,
+                0.0
+            ]
+        ],
+        "kp_center": [
+            [
+                0,
+                0,
+                0.0
+            ]
+        ],
+        "points_feature": "twist_dataset/twist_dataset_urdf/others/others_0001/meshes/link1_poisson_1024_feature.npy"
+    },
+    "others_0002": {
+        "urdf_path": "twist_dataset/twist_dataset_urdf/others/others_0002/urdf/others_0002_modified.urdf",
+        "dx": 0.03,
+        "dy": -0.08,
+        "dz": -0.11,
+        "kp_bais": [
+            [
+                0,
+                0.03,
+                0.0
+            ],
+            [
+                0,
+                -0.03,
+                0.0
+            ],
+            [
+                -0.03,
+                0,
+                0.0
+            ]
+        ],
+        "kp_center": [
+            [
+                0,
+                0,
+                -0.01
+            ]
+        ],
+        "points_feature": "twist_dataset/twist_dataset_urdf/others/others_0002/meshes/link1_poisson_1024_feature.npy"
+    },
+    "others_0004": {
+        "urdf_path": "twist_dataset/twist_dataset_urdf/others/others_0004/urdf/others_0004_modified.urdf",
+        "dx": 0.03,
+        "dy": -0.08,
+        "dz": -0.11,
+        "kp_bais": [
+            [
+                0,
+                0.03,
+                0.0
+            ],
+            [
+                0,
+                -0.03,
+                0.0
+            ],
+            [
+                -0.03,
+                0,
+                0.0
+            ]
+        ],
+        "kp_center": [
+            [
+                0,
+                0,
+                -0.02
+            ]
+        ],
+        "points_feature": "twist_dataset/twist_dataset_urdf/others/others_0004/meshes/link1_poisson_1024_feature.npy"
+    },
+    "others_0005": {
+        "urdf_path": "twist_dataset/twist_dataset_urdf/others/others_0005/urdf/others_0005_modified.urdf",
+        "dx": 0.03,
+        "dy": -0.08,
+        "dz": -0.11,
+        "kp_bais": [
+            [
+                0,
+                0.03,
+                0.0
+            ],
+            [
+                0,
+                -0.03,
+                0.0
+            ],
+            [
+                -0.03,
+                0,
+                0.0
+            ]
+        ],
+        "kp_center": [
+            [
+                0,
+                0,
+                0.0
+            ]
+        ],
+        "points_feature": "twist_dataset/twist_dataset_urdf/others/others_0005/meshes/link1_poisson_1024_feature.npy"
+    },
+    "others_0006": {
+        "urdf_path": "twist_dataset/twist_dataset_urdf/others/others_0006/urdf/others_0006_modified.urdf",
+        "dx": 0.03,
+        "dy": -0.08,
+        "dz": -0.11,
+        "kp_bais": [
+            [
+                0,
+                0.03,
+                0.0
+            ],
+            [
+                0,
+                -0.03,
+                0.0
+            ],
+            [
+                -0.03,
+                0,
+                0.0
+            ]
+        ],
+        "kp_center": [
+            [
+                0,
+                0,
+                0.0
+            ]
+        ],
+        "points_feature": "twist_dataset/twist_dataset_urdf/others/others_0006/meshes/link1_poisson_1024_feature.npy"
+    },
+    "others_0003": {
+        "urdf_path": "twist_dataset/twist_dataset_urdf/others/others_0003/urdf/others_0003_modified.urdf",
+        "dx": 0.03,
+        "dy": -0.08,
+        "dz": -0.11,
+        "kp_bais": [
+            [
+                0,
+                0.02,
+                0.0
+            ],
+            [
+                0,
+                -0.02,
+                0.0
+            ],
+            [
+                -0.02,
+                0,
+                0.0
+            ]
+        ],
+        "kp_center": [
+            [
+                0,
+                0,
+                0.0
+            ]
+        ],
+        "points_feature": "twist_dataset/twist_dataset_urdf/others/others_0003/meshes/link1_poisson_1024_feature.npy"
+    },
+    "others_0007": {
+        "urdf_path": "twist_dataset/twist_dataset_urdf/others/others_0007/urdf/others_0007_modified.urdf",
+        "dx": 0.03,
+        "dy": -0.08,
+        "dz": -0.11,
+        "kp_bais": [
+            [
+                0,
+                0.03,
+                0.0
+            ],
+            [
+                0,
+                -0.03,
+                0.0
+            ],
+            [
+                -0.03,
+                0,
+                0.0
+            ]
+        ],
+        "kp_center": [
+            [
+                0,
+                0,
+                -0.02
+            ]
+        ],
+        "points_feature": "twist_dataset/twist_dataset_urdf/others/others_0007/meshes/link1_poisson_1024_feature.npy"
+    },
+    "others_0008": {
+        "urdf_path": "twist_dataset/twist_dataset_urdf/others/others_0008/urdf/others_0008_modified.urdf",
+        "dx": 0.03,
+        "dy": -0.08,
+        "dz": -0.1,
+        "kp_bais": [
+            [
+                0,
+                0.03,
+                0.0
+            ],
+            [
+                0,
+                -0.03,
+                0.0
+            ],
+            [
+                -0.03,
+                0,
+                0.0
+            ]
+        ],
+        "kp_center": [
+            [
+                0,
+                0,
+                -0.03
+            ]
+        ],
+        "points_feature": "twist_dataset/twist_dataset_urdf/others/others_0008/meshes/link1_poisson_1024_feature.npy"
+    },
+    "others_0009": {
+        "urdf_path": "twist_dataset/twist_dataset_urdf/others/others_0009/urdf/others_0009_modified.urdf",
+        "dx": 0.03,
+        "dy": -0.08,
+        "dz": -0.11,
+        "kp_bais": [
+            [
+                0,
+                0.03,
+                0.0
+            ],
+            [
+                0,
+                -0.03,
+                0.0
+            ],
+            [
+                -0.03,
+                0,
+                0.0
+            ]
+        ],
+        "kp_center": [
+            [
+                0,
+                0,
+                -0.01
+            ]
+        ],
+        "points_feature": "twist_dataset/twist_dataset_urdf/others/others_0009/meshes/link1_poisson_1024_feature.npy"
+    },
+    "others_0010": {
+        "urdf_path": "twist_dataset/twist_dataset_urdf/others/others_0010/urdf/others_0010_modified.urdf",
+        "dx": 0.03,
+        "dy": -0.08,
+        "dz": -0.1,
+        "kp_bais": [
+            [
+                0,
+                0.03,
+                0.0
+            ],
+            [
+                0,
+                -0.03,
+                0.0
+            ],
+            [
+                -0.03,
+                0,
+                0.0
+            ]
+        ],
+        "kp_center": [
+            [
+                0,
+                0,
+                -0.03
+            ]
+        ],
+        "points_feature": "twist_dataset/twist_dataset_urdf/others/others_0010/meshes/link1_poisson_1024_feature.npy"
+    },
+    "others_0011": {
+        "urdf_path": "twist_dataset/twist_dataset_urdf/others/others_0011/urdf/others_0011_modified.urdf",
+        "dx": 0.03,
+        "dy": -0.08,
+        "dz": -0.12,
+        "kp_bais": [
+            [
+                0,
+                0.03,
+                0.0
+            ],
+            [
+                0,
+                -0.03,
+                0.0
+            ],
+            [
+                -0.03,
+                0,
+                0.0
+            ]
+        ],
+        "kp_center": [
+            [
+                0,
+                0,
+                0.0
+            ]
+        ],
+        "points_feature": "twist_dataset/twist_dataset_urdf/others/others_0011/meshes/link1_poisson_1024_feature.npy"
+    },
+    "others_0012": {
+        "urdf_path": "twist_dataset/twist_dataset_urdf/others/others_0012/urdf/others_0012_modified.urdf",
+        "dx": 0.03,
+        "dy": -0.08,
+        "dz": -0.095,
+        "kp_bais": [
+            [
+                0,
+                0.03,
+                0.0
+            ],
+            [
+                0,
+                -0.03,
+                0.0
+            ],
+            [
+                -0.03,
+                0,
+                0.0
+            ]
+        ],
+        "kp_center": [
+            [
+                0,
+                0,
+                0.0
+            ]
+        ],
+        "points_feature": "twist_dataset/twist_dataset_urdf/others/others_0012/meshes/link1_poisson_1024_feature.npy"
+    },
+    "others_0013": {
+        "urdf_path": "twist_dataset/twist_dataset_urdf/others/others_0013/urdf/others_0013_modified.urdf",
+        "dx": 0.03,
+        "dy": -0.08,
+        "dz": -0.13,
+        "kp_bais": [
+            [
+                0,
+                0.03,
+                0.0
+            ],
+            [
+                0,
+                -0.03,
+                0.0
+            ],
+            [
+                -0.03,
+                0,
+                0.0
+            ]
+        ],
+        "kp_center": [
+            [
+                0,
+                0,
+                -0.02
+            ]
+        ],
+        "points_feature": "twist_dataset/twist_dataset_urdf/others/others_0013/meshes/link1_poisson_1024_feature.npy"
+    },
+    "others_0014": {
+        "urdf_path": "twist_dataset/twist_dataset_urdf/others/others_0014/urdf/others_0014_modified.urdf",
+        "dx": 0.03,
+        "dy": -0.08,
+        "dz": -0.12,
+        "kp_bais": [
+            [
+                0,
+                0.03,
+                0.0
+            ],
+            [
+                0,
+                -0.03,
+                0.0
+            ],
+            [
+                -0.03,
+                0,
+                0.0
+            ]
+        ],
+        "kp_center": [
+            [
+                0,
+                0,
+                -0.02
+            ]
+        ],
+        "points_feature": "twist_dataset/twist_dataset_urdf/others/others_0014/meshes/link1_poisson_1024_feature.npy"
+    },
+    "others_0015": {
+        "urdf_path": "twist_dataset/twist_dataset_urdf/others/others_0015/urdf/others_0015_modified.urdf",
+        "dx": 0.02,
+        "dy": -0.08,
+        "dz": -0.12,
+        "kp_bais": [
+            [
+                0,
+                0.03,
+                0.0
+            ],
+            [
+                0,
+                -0.03,
+                0.0
+            ],
+            [
+                -0.03,
+                0,
+                0.0
+            ]
+        ],
+        "kp_center": [
+            [
+                0,
+                0,
+                0.0
+            ]
+        ],
+        "points_feature": "twist_dataset/twist_dataset_urdf/others/others_0015/meshes/link1_poisson_1024_feature.npy"
+    },
+    "others_0016": {
+        "urdf_path": "twist_dataset/twist_dataset_urdf/others/others_0016/urdf/others_0016_modified.urdf",
+        "dx": 0.03,
+        "dy": -0.08,
+        "dz": -0.11,
+        "kp_bais": [
+            [
+                0,
+                0.03,
+                0.0
+            ],
+            [
+                0,
+                -0.03,
+                0.0
+            ],
+            [
+                -0.03,
+                0,
+                0.0
+            ]
+        ],
+        "kp_center": [
+            [
+                0,
+                0,
+                -0.03
+            ]
+        ],
+        "points_feature": "twist_dataset/twist_dataset_urdf/others/others_0016/meshes/link1_poisson_1024_feature.npy"
+    },
+    "others_0017": {
+        "urdf_path": "twist_dataset/twist_dataset_urdf/others/others_0017/urdf/others_0017_modified.urdf",
+        "dx": 0.03,
+        "dy": -0.08,
+        "dz": -0.11,
+        "kp_bais": [
+            [
+                0,
+                0.04,
+                0.0
+            ],
+            [
+                0,
+                -0.04,
+                0.0
+            ],
+            [
+                -0.04,
+                0,
+                0.0
+            ]
+        ],
+        "kp_center": [
+            [
+                0,
+                0,
+                -0.01
+            ]
+        ],
+        "points_feature": "twist_dataset/twist_dataset_urdf/others/others_0017/meshes/link1_poisson_1024_feature.npy"
+    },
+    "others_0018": {
+        "urdf_path": "twist_dataset/twist_dataset_urdf/others/others_0018/urdf/others_0018_modified.urdf",
+        "dx": 0.03,
+        "dy": -0.08,
+        "dz": -0.1,
+        "kp_bais": [
+            [
+                0,
+                0.03,
+                0.0
+            ],
+            [
+                0,
+                -0.03,
+                0.0
+            ],
+            [
+                -0.03,
+                0,
+                0.0
+            ]
+        ],
+        "kp_center": [
+            [
+                0,
+                0,
+                -0.03
+            ]
+        ],
+        "points_feature": "twist_dataset/twist_dataset_urdf/others/others_0018/meshes/link1_poisson_1024_feature.npy"
+    },
+    "others_0019": {
+        "urdf_path": "twist_dataset/twist_dataset_urdf/others/others_0019/urdf/others_0019_modified.urdf",
+        "dx": 0.03,
+        "dy": -0.08,
+        "dz": -0.1,
+        "kp_bais": [
+            [
+                0,
+                0.04,
+                0.0
+            ],
+            [
+                0,
+                -0.04,
+                0.0
+            ],
+            [
+                -0.04,
+                0,
+                0.0
+            ]
+        ],
+        "kp_center": [
+            [
+                0,
+                0,
+                -0.02
+            ]
+        ],
+        "points_feature": "twist_dataset/twist_dataset_urdf/others/others_0019/meshes/link1_poisson_1024_feature.npy"
+    },
+    "others_0020": {
+        "urdf_path": "twist_dataset/twist_dataset_urdf/others/others_0020/urdf/others_0020_modified.urdf",
+        "dx": 0.03,
+        "dy": -0.08,
+        "dz": -0.09,
+        "kp_bais": [
+            [
+                0,
+                0.03,
+                0.0
+            ],
+            [
+                0,
+                -0.03,
+                0.0
+            ],
+            [
+                -0.03,
+                0,
+                0.0
+            ]
+        ],
+        "kp_center": [
+            [
+                0,
+                0,
+                -0.03
+            ]
+        ],
+        "points_feature": "twist_dataset/twist_dataset_urdf/others/others_0020/meshes/link1_poisson_1024_feature.npy"
+    },
+    "others_0021": {
+        "urdf_path": "twist_dataset/twist_dataset_urdf/others/others_0021/urdf/others_0021_modified.urdf",
+        "dx": 0.03,
+        "dy": -0.08,
+        "dz": -0.1,
+        "kp_bais": [
+            [
+                0,
+                0.03,
+                0.0
+            ],
+            [
+                0,
+                -0.03,
+                0.0
+            ],
+            [
+                -0.03,
+                0,
+                0.0
+            ]
+        ],
+        "kp_center": [
+            [
+                0,
+                0,
+                -0.03
+            ]
+        ],
+        "points_feature": "twist_dataset/twist_dataset_urdf/others/others_0021/meshes/link1_poisson_1024_feature.npy"
+    },
+    "others_0022": {
+        "urdf_path": "twist_dataset/twist_dataset_urdf/others/others_0022/urdf/others_0022_modified.urdf",
+        "dx": 0.03,
+        "dy": -0.08,
+        "dz": -0.11,
+        "kp_bais": [
+            [
+                0,
+                0.03,
+                0.0
+            ],
+            [
+                0,
+                -0.03,
+                0.0
+            ],
+            [
+                -0.03,
+                0,
+                0.0
+            ]
+        ],
+        "kp_center": [
+            [
+                0,
+                0,
+                -0.02
+            ]
+        ],
+        "points_feature": "twist_dataset/twist_dataset_urdf/others/others_0022/meshes/link1_poisson_1024_feature.npy"
+    },
+    "others_0023": {
+        "urdf_path": "twist_dataset/twist_dataset_urdf/others/others_0023/urdf/others_0023_modified.urdf",
+        "dx": 0.03,
+        "dy": -0.08,
+        "dz": -0.1,
+        "kp_bais": [
+            [
+                0,
+                0.03,
+                0.0
+            ],
+            [
+                0,
+                -0.03,
+                0.0
+            ],
+            [
+                -0.03,
+                0,
+                0.0
+            ]
+        ],
+        "kp_center": [
+            [
+                0,
+                0,
+                -0.03
+            ]
+        ],
+        "points_feature": "twist_dataset/twist_dataset_urdf/others/others_0023/meshes/link1_poisson_1024_feature.npy"
+    },
+    "others_0024": {
+        "urdf_path": "twist_dataset/twist_dataset_urdf/others/others_0024/urdf/others_0024_modified.urdf",
+        "dx": 0.03,
+        "dy": -0.08,
+        "dz": -0.1,
+        "kp_bais": [
+            [
+                0,
+                0.03,
+                0.0
+            ],
+            [
+                0,
+                -0.03,
+                0.0
+            ],
+            [
+                -0.03,
+                0,
+                0.0
+            ]
+        ],
+        "kp_center": [
+            [
+                0,
+                0,
+                -0.03
+            ]
+        ],
+        "points_feature": "twist_dataset/twist_dataset_urdf/others/others_0024/meshes/link1_poisson_1024_feature.npy"
+    },
+    "others_0025": {
+        "urdf_path": "twist_dataset/twist_dataset_urdf/others/others_0025/urdf/others_0025_modified.urdf",
+        "dx": 0.03,
+        "dy": -0.08,
+        "dz": -0.08,
+        "kp_bais": [
+            [
+                0,
+                0.03,
+                0.0
+            ],
+            [
+                0,
+                -0.03,
+                0.0
+            ],
+            [
+                -0.03,
+                0,
+                0.0
+            ]
+        ],
+        "kp_center": [
+            [
+                0,
+                0,
+                -0.03
+            ]
+        ],
+        "points_feature": "twist_dataset/twist_dataset_urdf/others/others_0025/meshes/link1_poisson_1024_feature.npy"
+    }
+}

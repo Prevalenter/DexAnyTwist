@@ -1,0 +1,212 @@
+name: DexAnyTwist
+
+physics_engine: ${..physics_engine}
+
+dataset_name: 'dataset_all'
+
+env:
+  numEnvs: ${resolve_default:16384,${...num_envs}}
+  envSpacing: 0.75
+  episodeLength: 600
+  aggregateMode: 1
+
+  controlStepsBegin: 0
+
+  with_points_cloud: True
+
+  first_epoch_train: True
+
+  random_network_adversary:
+    enable: True
+    prob: 0.15
+    weight_sample_freq: 1000
+
+  random_cube_observation:
+    enable: True
+    prob: 0.2
+
+  adaptiveParameter:
+    enable: Ture
+    ScaleInitial: 0.0
+    rangeActionsMovingAverage: [0.499, 0.5]
+    consecutiveSuccessesThreshold: 4 
+    schedule_freq: 100
+    numIteration: 50
+
+  clipObservations: 5.0
+  clipActions: 1.0
+
+  useRelativeControl: False
+  dofSpeedScale: 20.0
+  actionsMovingAverage: 1.0
+  controlFrequencyInv: 2
+
+  resetPositionNoise: 0.005
+  resetDofPosRandomInterval: 0.2
+  resetDofVelRandomInterval: 0.0
+
+  forceScale: 2.0
+  forceProbRange: [0.001, 0.1]
+  forceDecay: 0.99
+  forceDecayInterval: 0.08
+
+  distRewardScale: -10.0
+  rotRewardScale: 0.5
+  rotEps: 0.1
+  actionPenaltyScale: -0.0001
+  actionDeltaPenaltyScale: -0.05
+  jointVelocityPenaltyScale: -0.001
+  reachGoalBonus: 1000
+  fallDistance: 0.5
+  fallPenalty: 0.0
+
+  observationType: "full_no_vel"
+  asymmetric_observations: False
+  successTolerance: 0.2
+  printNumSuccesses: False
+  maxConsecutiveSuccesses: 0
+
+  calculate_cls_metric: False
+
+  asym_state_fingertip_state: False
+  asym_state_dr_params: True
+
+  hand_cfg: "gx10.json"
+
+  asset:
+    assetFileName: "gx10/urdf/gx10.urdf" 
+    assetFileNameBlock:  "twist_dataset/twist_dataset_urdf/bottle/bottle_0012/urdf/bottle_0012.urdf"
+
+  enableCameraSensors: False
+
+task:
+  randomize: True
+  schedule: None
+  schedule_steps: 150000
+  randomization_params:
+    frequency: 720
+    observations:
+      range: [0, .002]
+      range_correlated: [0, .01 ]
+      operation: "additive"
+      distribution: "gaussian"
+      schedule: ${task.task.schedule}
+      schedule_steps: ${task.task.schedule_steps}
+    actions:
+      range: [0., .05]
+      range_correlated: [0, .02]
+      operation: "additive"
+      distribution: "gaussian"
+      schedule: ${task.task.schedule}
+      schedule_steps: ${task.task.schedule_steps}
+    sim_params:
+      gravity:
+        range: [0, 0.4]
+        operation: "additive"
+        distribution: "gaussian"
+        schedule: ${task.task.schedule}
+        schedule_steps: ${task.task.schedule_steps}
+    actor_params:
+      hand:
+        color: False
+        dof_properties:
+          damping: 
+            range: [0.3, 3.0]
+            operation: "scaling"
+            distribution: "loguniform"
+            schedule: ${task.task.schedule}
+            schedule_steps: ${task.task.schedule_steps}
+          stiffness:
+            range: [0.75, 1.5]
+            operation: "scaling"
+            distribution: "loguniform"
+            schedule: ${task.task.schedule}
+            schedule_steps: ${task.task.schedule_steps}
+          lower:
+            range: [0, 0.01]
+            operation: "additive"
+            distribution: "gaussian"
+            schedule: ${task.task.schedule}
+            schedule_steps: ${task.task.schedule_steps}
+          upper:
+            range: [0, 0.01]
+            operation: "additive"
+            distribution: "gaussian"
+            schedule: ${task.task.schedule}
+            schedule_steps: ${task.task.schedule_steps}
+        rigid_body_properties:
+          mass:
+            range: [0.5, 1.5]
+            operation: "scaling"
+            distribution: "uniform"
+            setup_only: True
+            schedule: ${task.task.schedule}
+            schedule_steps: ${task.task.schedule_steps}
+        rigid_shape_properties:
+          friction:
+            num_buckets: 250
+            range: [0.7, 1.3]
+            operation: "scaling"
+            distribution: "uniform"
+            schedule: ${task.task.schedule}
+            schedule_steps: ${task.task.schedule_steps}
+          restitution:
+            num_buckets: 100
+            range: [0.0, 0.4]
+            operation: "additive"
+            distribution: "uniform"
+            schedule: ${task.task.schedule}
+            schedule_steps: ${task.task.schedule_steps}
+      object:
+        scale:
+          range: [0.95, 1.05]
+          operation: "scaling"
+          distribution: "uniform"
+          setup_only: True
+          schedule: ${task.task.schedule}
+          schedule_steps: ${task.task.schedule_steps}
+        rigid_body_properties:
+          mass:
+            range: [0.5, 1.5]
+            operation: "scaling"
+            distribution: "uniform"
+            setup_only: True
+            schedule: ${task.task.schedule}
+            schedule_steps: ${task.task.schedule_steps}
+        rigid_shape_properties:
+          friction:
+            num_buckets: 250
+            range: [0.2, 1.3]
+            operation: "scaling"
+            distribution: "uniform"
+            schedule: ${task.task.schedule}
+            schedule_steps: ${task.task.schedule_steps}
+          restitution:
+            num_buckets: 100
+            range: [0.0, 0.4]
+            operation: "additive"
+            distribution: "uniform"
+            schedule: ${task.task.schedule}
+            schedule_steps: ${task.task.schedule_steps}
+
+
+sim:
+  dt: 0.01667
+  substeps: 2
+  up_axis: "z"
+  use_gpu_pipeline: ${eq:${...pipeline},"gpu"}
+  gravity: [0.0, 0.0, -9.81]
+  physx:
+    num_threads: ${....num_threads}
+    solver_type: ${....solver_type}
+    use_gpu: ${contains:"cuda",${....sim_device}}
+    num_position_iterations: 8
+    num_velocity_iterations: 0
+    max_gpu_contact_pairs: 8388608
+    num_subscenes: ${....num_subscenes}
+    contact_offset: 0.002
+    rest_offset: 0.0
+    bounce_threshold_velocity: 0.2
+    max_depenetration_velocity: 1000.0
+    default_buffer_size_multiplier: 5.0
+    contact_collection: 0

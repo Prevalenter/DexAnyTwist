@@ -1,0 +1,8 @@
+{
+    "name": "GX10",
+    "urdf_path": "gx10/urdf/gx10_tactile.urdf",
+    "num_joints": 10,
+    "finger_tips_name": ["Link4", "Link7", "Link10"],
+    "finger_tips_idx": [4, 7, 10],
+    "finger_bias": [1, 0, 0.2]
+}
