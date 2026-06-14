@@ -77,6 +77,21 @@ bash dexanytwist/isaacgymenvs/experiments/DexTwistAnything/reversion/baseline_hu
 ```
 
 
+## :black_nib: Citation
+
+If you find our work helpful for your research, please consider citing the following BibTeX entry.   
+
+```bibtex
+@article{liu2026dexanytwist,
+  title={DexAnyTwist: Learning General Dexterous Twisting with Hybrid Manipulation System Identification},
+  author={Liu, Xing and Dong, Yunlong and Wan, Jun and Deng, Linan and Hua, Feng and Shen, Yi and Yu, Min and Ma, Guijun and Cheng, Cheng and Song, Haitao and others},
+  journal={National Science Review},
+  pages={nwag351},
+  year={2026},
+  publisher={Oxford University Press}
+}
+```
+
 
 ## 🙏 Acknowledgments
 
