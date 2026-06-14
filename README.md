@@ -76,14 +76,6 @@ bash dexanytwist/isaacgymenvs/experiments/DexTwistAnything/reversion/baseline_hu
   train.params.config.central_value_config.minibatch_size=128
 ```
 
-###  Evaluate
-
-To run metric evaluation with a trained checkpoint:
-
-```bash
-bash dexanytwist/isaacgymenvs/experiments/DexTwistAnything/reversion/baseline_huge.sh \
-  --test_metric /path/to/checkpoint.pth
-```
 
 
 ## 🙏 Acknowledgments
